@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Corsa Notturna · Sim racing dashboards</title>
+<meta name="description" content="Race-ready dashboards for MOZA wheels and dashes, built and tested in iRacing.">
+<meta name="theme-color" content="#0D1320">
+<meta property="og:title" content="Corsa Notturna">
+<meta property="og:description" content="Race-ready dashboards for MOZA wheels and dashes, built and tested in iRacing.">
+<meta property="og:type" content="website">
+<link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32.png">
+<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+<link rel="stylesheet" href="styles.css">
+<script src="config.js"></script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="top">
+  <div class="wrap top-row">
+    <a class="brand" href="./" aria-label="Corsa Notturna home">
+      <img src="img/logo.svg" alt="Corsa Notturna" width="1256" height="150">
+    </a>
+    <nav class="nav" aria-label="Main">
+      <a href="#dashboards">Dashboards</a>
+      <a class="btn btn-kofi btn-small" data-kofi hidden href="#"><span class="btn-inner">Tip on Ko-fi</span></a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+
+  <section class="hero" aria-labelledby="hero-title">
+    <div class="wrap hero-inner">
+      <div class="hero-text">
+      <h1 id="hero-title">Your MOZA dash,<br> race&nbsp;ready</h1>
+      <p class="lede">Built in Pit House and tested lap after lap in iRacing. Light enough that your wheel never lags, and clear enough to read in a quick glance.</p>
+      <p class="compat">Available now for the CM2 dash and KS Pro wheel, with more MOZA wheels coming soon.</p>
+      <div class="actions">
+        <a class="btn btn-light" href="#dashboards"><span class="btn-inner">See the dashboards</span></a>
+        <a class="btn btn-kofi" data-kofi hidden href="#"><span class="btn-inner">Tip on Ko-fi</span></a>
+      </div>
+      </div>
+      <button class="gantry" type="button" aria-label="Replay the start lights">
+        <span class="pod"><i></i><i></i></span>
+        <span class="pod"><i></i><i></i></span>
+        <span class="pod"><i></i><i></i></span>
+        <span class="pod"><i></i><i></i></span>
+        <span class="pod"><i></i><i></i></span>
+      </button>
+    </div>
+    <div class="livery" aria-hidden="true">
+      <div class="lane lane-verde"><span class="band"></span></div>
+      <div class="lane lane-bianco"><span class="band"></span></div>
+      <div class="lane lane-rosso"><span class="band"></span></div>
+    </div>
+  </section>
+
+  <section class="promise wrap" aria-label="What to expect">
+    <div class="point">
+      <div class="sector s1" aria-hidden="true"><span>S1</span></div>
+      <h2>Light on your hardware</h2>
+      <p>Only the numbers you need, so the screen updates smoothly and the wheel stays responsive.</p>
+    </div>
+    <div class="point">
+      <div class="sector s2" aria-hidden="true"><span>S2</span></div>
+      <h2>Made for iRacing</h2>
+      <p>Every page is checked against iRacing's live data. Anything iRacing doesn't send is left off instead of showing junk.</p>
+    </div>
+    <div class="point">
+      <div class="sector s3" aria-hidden="true"><span>S3</span></div>
+      <h2>Read it at a glance</h2>
+      <p>Gear, speed and warnings are the biggest things on screen, so one quick look is all it takes.</p>
+    </div>
+  </section>
+
+  <section id="dashboards" class="dashes" aria-labelledby="dashes-title">
+    <div class="wrap">
+      <h2 id="dashes-title" class="section-title">Dashboards</h2>
+      <div id="dash-list"></div>
+      <div id="dash-empty" class="empty">
+        <div class="pitboard" role="img" aria-label="Pit board reading: CN, dashes, soon">
+          <span>CN</span><span class="pb-y">DASHES</span><span>SOON</span>
+        </div>
+        <div class="empty-text">
+        <p class="empty-lead">The first dashboards are almost ready.</p>
+        <p>They'll be free to download right here. <span data-follow hidden>Follow along to hear when they drop.</span></p>
+        <div class="actions" data-follow hidden>
+          <span id="follow-links" class="follow-links"></span>
+        </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="install" class="install" aria-labelledby="install-title" hidden>
+    <div class="wrap">
+      <h2 id="install-title" class="section-title">How to install</h2>
+      <ol class="steps">
+        <li><div><strong>Download the file for your device.</strong> Each dashboard is a single <code>.mzdash</code> file.</div></li>
+        <li><div><strong>Import it in MOZA Pit House.</strong> Open the dashboard section for your CM2 or wheel, choose Import, and pick the file.</div></li>
+        <li><div><strong>Upload it to your device.</strong> Click Upload Dashboard. If Pit House says the name is already in use, remove the older copy from the device first, then upload again.</div></li>
+        <li><div><strong>Head out on track.</strong> Start an iRacing session and swipe on the CM2 to switch between pages.</div></li>
+      </ol>
+    </div>
+  </section>
+
+
+  <section id="support" class="support" aria-labelledby="support-title" hidden>
+    <div class="wrap support-inner">
+      <h2 id="support-title" class="section-title">Support the project</h2>
+      <p>Every dashboard here is free. If one makes your races better, a tip on Ko-fi helps pay for the next one.</p>
+      <a class="btn btn-kofi" data-kofi href="#"><span class="btn-inner">Tip on Ko-fi</span></a>
+    </div>
+  </section>
+
+</main>
+
+<div class="chequer" aria-hidden="true"></div>
+<footer class="foot">
+  <div class="wrap foot-inner">
+    <img class="foot-logo" src="img/logo.svg" alt="Corsa Notturna" width="1256" height="150">
+    <p>Corsa Notturna is an independent project. It isn't affiliated with MOZA Racing or iRacing.</p>
+    <p id="contact" hidden>Questions or requests? <a id="contact-link" href="#"></a></p>
+    <p class="small">© <span id="year">2026</span> Corsa Notturna</p>
+  </div>
+</footer>
+
+<script src="site.js"></script>
+</body>
+</html>
