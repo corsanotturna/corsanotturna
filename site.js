@@ -49,6 +49,41 @@
     document.getElementById("contact").hidden = false;
   }
 
+  // contact form (sends through Formspree)
+  if (cfg.contactForm) {
+    document.getElementById("get-in-touch").hidden = false;
+    document.querySelectorAll("[data-contact]").forEach(function (n) { n.hidden = false; });
+    var form = document.getElementById("contact-form");
+    var status = form.querySelector(".form-status");
+    var send = form.querySelector('button[type="submit"]');
+    var sendLabel = send.querySelector(".btn-inner");
+    form.action = cfg.contactForm;
+    form.addEventListener("submit", function (e) {
+      e.preventDefault();
+      status.className = "form-status";
+      status.textContent = "";
+      send.disabled = true;
+      sendLabel.textContent = "Sending…";
+      var done = function (ok, msg) {
+        send.disabled = false;
+        sendLabel.textContent = "Send message";
+        status.className = "form-status " + (ok ? "ok" : "err");
+        status.textContent = msg;
+        if (ok) form.reset();
+      };
+      if (cfg.contactForm === "demo") { setTimeout(function () { done(true, "Message sent. Thanks, I'll reply by email."); }, 700); return; }
+      fetch(cfg.contactForm, { method: "POST", body: new FormData(form), headers: { Accept: "application/json" } })
+        .then(function (r) {
+          if (r.ok) return done(true, "Message sent. Thanks, I'll reply by email.");
+          return r.json().then(function (data) {
+            var why = data && data.errors && data.errors.length ? data.errors.map(function (x) { return x.message; }).join(" ") : "";
+            done(false, "Your message didn't send. " + (why || "Please try again in a minute."));
+          });
+        })
+        .catch(function () { done(false, "Your message didn't send. Check your connection and try again."); });
+    });
+  }
+
   // dashboards
   if (!dashes.length) return;
   document.getElementById("dash-empty").hidden = true;
@@ -68,9 +103,14 @@
       text.appendChild(ul);
     }
     if (d.download) {
-      var dl = btn(d.download, "Download", "btn-light", "Download " + (d.name || "dashboard"));
-      dl.setAttribute("download", "");
-      text.appendChild(dl);
+      var dlRow = el("div", { class: "dl-row" });
+      var dl = btn(d.download, d.downloadLabel || "Download", "btn-light", "Download " + (d.name || "dashboard"));
+      dl.setAttribute("download", d.downloadName || "");
+      dlRow.appendChild(dl);
+      var info = [".mzdash file for Pit House"];
+      if (d.size) info.push(d.size);
+      dlRow.appendChild(el("span", { class: "file" }, info.join(", ")));
+      text.appendChild(dlRow);
     }
     var meta = [];
     if (d.version) meta.push("Version " + d.version);

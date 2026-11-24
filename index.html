@@ -24,6 +24,7 @@
     </a>
     <nav class="nav" aria-label="Main">
       <a href="#dashboards">Dashboards</a>
+      <a href="#get-in-touch" data-contact hidden>Contact</a>
       <a class="btn btn-kofi btn-small" data-kofi hidden href="#"><span class="btn-inner">Tip on Ko-fi</span></a>
     </nav>
   </div>
@@ -100,12 +101,46 @@
       <ol class="steps">
         <li><div><strong>Download the file for your device.</strong> Each dashboard is a single <code>.mzdash</code> file.</div></li>
         <li><div><strong>Import it in MOZA Pit House.</strong> Open the dashboard section for your CM2 or wheel, choose Import, and pick the file.</div></li>
-        <li><div><strong>Upload it to your device.</strong> Click Upload Dashboard. If Pit House says the name is already in use, remove the older copy from the device first, then upload again.</div></li>
+        <li><div><strong>Upload it to your device.</strong> Hover over the dash in the library and click the upload icon.</div></li>
         <li><div><strong>Head out on track.</strong> Start an iRacing session and swipe on the CM2 to switch between pages.</div></li>
       </ol>
     </div>
   </section>
 
+
+  <section id="get-in-touch" class="contact" aria-labelledby="contact-title" hidden>
+    <div class="wrap contact-inner">
+      <div class="contact-text">
+        <h2 id="contact-title" class="section-title">Get in touch</h2>
+        <p>Questions about a dash, a bug to report, or an idea for the next one? Send a message and I'll reply by email.</p>
+      </div>
+      <form id="contact-form" class="contact-form" method="POST">
+        <div class="field-row">
+          <div class="field">
+            <label for="cf-name">Name</label>
+            <input id="cf-name" name="name" type="text" autocomplete="name" required>
+          </div>
+          <div class="field">
+            <label for="cf-email">Email</label>
+            <input id="cf-email" name="email" type="email" autocomplete="email" required>
+          </div>
+        </div>
+        <div class="field">
+          <label for="cf-message">Message</label>
+          <textarea id="cf-message" name="message" rows="6" required></textarea>
+        </div>
+        <div class="gotcha" aria-hidden="true">
+          <label for="cf-gotcha">Leave this empty</label>
+          <input id="cf-gotcha" type="text" name="_gotcha" tabindex="-1" autocomplete="off">
+        </div>
+        <input type="hidden" name="_subject" value="New message from corsanotturna.com">
+        <div class="form-actions">
+          <button type="submit" class="btn btn-light"><span class="btn-inner">Send message</span></button>
+          <p class="form-status" role="status" aria-live="polite"></p>
+        </div>
+      </form>
+    </div>
+  </section>
 
   <section id="support" class="support" aria-labelledby="support-title" hidden>
     <div class="wrap support-inner">
