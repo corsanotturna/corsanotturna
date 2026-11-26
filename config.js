@@ -52,6 +52,29 @@ window.CORSA = {
       size: "864 KB",
       version: "1.1",
       updated: "November 2026"
+    },
+    {
+      name: "Biturbo KS Pro",
+      device: "MOZA KS Pro wheel, 780×248",
+      description: "A bold wheel dash with a big gear readout in the middle and the numbers you check most on either side. Switch to the pit page for fuel when it's time to stop.",
+      features: [
+        "Shift lights that fill teal, then silver, then red",
+        "Big gear readout, with a red N in neutral",
+        "Speed in mph with a fuel bar underneath",
+        "Live delta, TC, ABS and brake bias",
+        "Orange pit limiter alert that flashes once when you switch it on",
+        "Pit page with fuel in gallons, gallons per lap and laps of fuel left",
+        "Laps left turns yellow, then red, with a LOW FUEL warning"
+      ],
+      pages: [
+        { label: "Main", image: "img/dashes/biturbo-ks-pro-main.png" },
+        { label: "Pit", image: "img/dashes/biturbo-ks-pro-pit.png" }
+      ],
+      download: "downloads/biturbo-ks-pro.mzdash",
+      downloadLabel: "Download for KS Pro",
+      size: "622 KB",
+      version: "1.0",
+      updated: "November 2026"
     }
   ]
 };
