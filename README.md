@@ -65,8 +65,20 @@ Anything left as `""` stays hidden.
   ],
   download: "downloads/corsa-notturna-gt.mzdash",
   version: "1.0",
-  updated: "November 2026"
+  updated: "November 23, 2026",
+  history: [
+    { version: "1.0", date: "November 23, 2026", note: "First release" }
+  ]
 },
 ```
 
-Put a comma between entries if you add more than one. As soon as the list has at least one dashboard, the "coming soon" message is replaced by your dashboards and the "How to install" steps appear.
+When you update a dash, bump `version` and `updated`, and add a new line to the top of `history`, for example:
+
+```js
+  history: [
+    { version: "1.1", date: "December 2, 2026", note: "What changed" },
+    { version: "1.0", date: "November 23, 2026", note: "First release" }
+  ]
+```
+
+Put a comma between dashboard entries (and between history lines) if you add more than one. As soon as the list has at least one dashboard, the "coming soon" message is replaced by your dashboards and the "How to install" steps appear.

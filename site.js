@@ -112,10 +112,28 @@
       dlRow.appendChild(el("span", { class: "file" }, info.join(", ")));
       text.appendChild(dlRow);
     }
-    var meta = [];
-    if (d.version) meta.push("Version " + d.version);
-    if (d.updated) meta.push("updated " + d.updated);
-    if (meta.length) text.appendChild(el("p", { class: "meta" }, meta.join(", ")));
+    if (d.history && d.history.length) {
+      // Update history, newest first: version, date and what changed
+      var hist = el("div", { class: "history" });
+      hist.appendChild(el("p", { class: "history-title" }, "Updates"));
+      var ol = el("ol");
+      d.history.forEach(function (h) {
+        var li = el("li");
+        var head = el("p", { class: "history-head" });
+        if (h.version) head.appendChild(el("span", { class: "history-v" }, "Version " + h.version));
+        if (h.date) head.appendChild(el("span", { class: "history-date" }, h.date));
+        li.appendChild(head);
+        if (h.note) li.appendChild(el("p", { class: "history-note" }, h.note));
+        ol.appendChild(li);
+      });
+      hist.appendChild(ol);
+      text.appendChild(hist);
+    } else {
+      var meta = [];
+      if (d.version) meta.push("Version " + d.version);
+      if (d.updated) meta.push("updated " + d.updated);
+      if (meta.length) text.appendChild(el("p", { class: "meta" }, meta.join(", ")));
+    }
 
     var pages = d.pages || [];
     var fig = el("div", { class: "dash-media" });

@@ -217,6 +217,18 @@ code { font-family: inherit; font-weight: 600; color: var(--bianco); }
 .dl-row .file { color: var(--nebbia); font-size: 15px; }
 .dl-row + .meta { margin-top: 6px; }
 
+/* Update history under the download button, newest first */
+.dash .history { margin-top: 24px; padding-top: 16px; border-top: 1px solid var(--linea); font-size: 15px; }
+.dash .history-title { margin: 0 0 10px; font-weight: 600; }
+.dash .history ol { list-style: none; margin: 0; padding: 0; }
+.dash .history li { padding-left: 0; margin: 0 0 12px; }
+.dash .history li:last-child { margin-bottom: 0; }
+.dash .history li::before { content: none; }
+.dash .history-head { margin: 0; display: flex; flex-wrap: wrap; gap: 0 12px; }
+.dash .history-v { font-weight: 600; }
+.dash .history-date { color: var(--nebbia); }
+.dash .history-note { margin: 2px 0 0; color: var(--nebbia); }
+
 .screen {
   margin: 0;
   background: #05080E;

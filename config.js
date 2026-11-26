@@ -51,7 +51,11 @@ window.CORSA = {
       downloadLabel: "Download for CM2",
       size: "864 KB",
       version: "1.1",
-      updated: "November 2026"
+      updated: "November 26, 2026",
+      history: [
+        { version: "1.1", date: "November 26, 2026", note: "Fuel in gallons, laps left that turns yellow then red, a LOW FUEL warning, a refreshed gear hexagon and a flag on the qualifying page" },
+        { version: "1.0", date: "November 23, 2026", note: "First release" }
+      ]
     },
     {
       name: "Biturbo KS Pro",
@@ -74,7 +78,10 @@ window.CORSA = {
       downloadLabel: "Download for KS Pro",
       size: "622 KB",
       version: "1.0",
-      updated: "November 2026"
+      updated: "November 25, 2026",
+      history: [
+        { version: "1.0", date: "November 25, 2026", note: "First release" }
+      ]
     }
   ]
 };
