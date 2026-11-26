@@ -36,7 +36,8 @@ window.CORSA = {
         "Shift lights, gear and speed, with the gear turning red in neutral",
         "Position and gaps to the cars ahead and behind",
         "Current lap, predicted lap and live delta",
-        "Fuel used per lap and laps of fuel remaining",
+        "Fuel in gallons, with laps of fuel left that keeps counting after a garage visit",
+        "Laps left turns yellow, then red, with a LOW FUEL warning in the gear hexagon",
         "TC, ABS, brake bias and engine map",
         "Flag and pit limiter alerts",
         "Qualifying page with a lap progress bar"
@@ -48,8 +49,8 @@ window.CORSA = {
       ],
       download: "downloads/esagono-verde-cm2.mzdash",
       downloadLabel: "Download for CM2",
-      size: "845 KB",
-      version: "1.0",
+      size: "864 KB",
+      version: "1.1",
       updated: "November 2026"
     }
   ]

@@ -924,7 +924,7 @@
                     },
                     "general": {
                         "backgroundColor": {
-                            "color": "#FF0B0D09",
+                            "color": "#FF000000",
                             "type": "SOLID"
                         },
                         "borderColor": {
@@ -993,7 +993,7 @@
                     },
                     "general": {
                         "backgroundColor": {
-                            "color": "#FF0B0D09",
+                            "color": "#FF000000",
                             "type": "SOLID"
                         },
                         "borderColor": {
@@ -1062,7 +1062,7 @@
                     },
                     "general": {
                         "backgroundColor": {
-                            "color": "#FF0B0D09",
+                            "color": "#FF000000",
                             "type": "SOLID"
                         },
                         "borderColor": {
@@ -1131,7 +1131,7 @@
                     },
                     "general": {
                         "backgroundColor": {
-                            "color": "#FF0B0D09",
+                            "color": "#FF000000",
                             "type": "SOLID"
                         },
                         "borderColor": {
@@ -1200,7 +1200,7 @@
                     },
                     "general": {
                         "backgroundColor": {
-                            "color": "#FF0B0D09",
+                            "color": "#FF000000",
                             "type": "SOLID"
                         },
                         "borderColor": {
@@ -1269,7 +1269,7 @@
                     },
                     "general": {
                         "backgroundColor": {
-                            "color": "#FF0B0D09",
+                            "color": "#FF000000",
                             "type": "SOLID"
                         },
                         "borderColor": {
@@ -1338,7 +1338,7 @@
                     },
                     "general": {
                         "backgroundColor": {
-                            "color": "#FF0B0D09",
+                            "color": "#FF000000",
                             "type": "SOLID"
                         },
                         "borderColor": {
@@ -1407,7 +1407,7 @@
                     },
                     "general": {
                         "backgroundColor": {
-                            "color": "#FF0B0D09",
+                            "color": "#FF000000",
                             "type": "SOLID"
                         },
                         "borderColor": {
@@ -1476,7 +1476,7 @@
                     },
                     "general": {
                         "backgroundColor": {
-                            "color": "#FF0B0D09",
+                            "color": "#FF000000",
                             "type": "SOLID"
                         },
                         "borderColor": {
@@ -1545,7 +1545,7 @@
                     },
                     "general": {
                         "backgroundColor": {
-                            "color": "#FF0B0D09",
+                            "color": "#FF000000",
                             "type": "SOLID"
                         },
                         "borderColor": {
@@ -1614,7 +1614,7 @@
                     },
                     "general": {
                         "backgroundColor": {
-                            "color": "#FF0B0D09",
+                            "color": "#FF000000",
                             "type": "SOLID"
                         },
                         "borderColor": {
@@ -1683,7 +1683,7 @@
                     },
                     "general": {
                         "backgroundColor": {
-                            "color": "#FF0B0D09",
+                            "color": "#FF000000",
                             "type": "SOLID"
                         },
                         "borderColor": {
@@ -1752,7 +1752,7 @@
                     },
                     "general": {
                         "backgroundColor": {
-                            "color": "#FF0B0D09",
+                            "color": "#FF000000",
                             "type": "SOLID"
                         },
                         "borderColor": {
@@ -1821,7 +1821,7 @@
                     },
                     "general": {
                         "backgroundColor": {
-                            "color": "#FF0B0D09",
+                            "color": "#FF000000",
                             "type": "SOLID"
                         },
                         "borderColor": {
@@ -1890,7 +1890,7 @@
                     },
                     "general": {
                         "backgroundColor": {
-                            "color": "#FF0B0D09",
+                            "color": "#FF000000",
                             "type": "SOLID"
                         },
                         "borderColor": {
@@ -1959,7 +1959,7 @@
                     },
                     "general": {
                         "backgroundColor": {
-                            "color": "#FF0B0D09",
+                            "color": "#FF000000",
                             "type": "SOLID"
                         },
                         "borderColor": {
@@ -2028,7 +2028,7 @@
                     },
                     "general": {
                         "backgroundColor": {
-                            "color": "#FF0B0D09",
+                            "color": "#FF000000",
                             "type": "SOLID"
                         },
                         "borderColor": {
@@ -2097,7 +2097,7 @@
                     },
                     "general": {
                         "backgroundColor": {
-                            "color": "#FF0B0D09",
+                            "color": "#FF000000",
                             "type": "SOLID"
                         },
                         "borderColor": {
@@ -2166,7 +2166,7 @@
                     },
                     "general": {
                         "backgroundColor": {
-                            "color": "#FF0B0D09",
+                            "color": "#FF000000",
                             "type": "SOLID"
                         },
                         "borderColor": {
@@ -2235,7 +2235,7 @@
                     },
                     "general": {
                         "backgroundColor": {
-                            "color": "#FF0B0D09",
+                            "color": "#FF000000",
                             "type": "SOLID"
                         },
                         "borderColor": {
@@ -2304,7 +2304,7 @@
                     },
                     "general": {
                         "backgroundColor": {
-                            "color": "#FF0B0D09",
+                            "color": "#FF000000",
                             "type": "SOLID"
                         },
                         "borderColor": {
@@ -3838,7 +3838,7 @@
                         },
                         "borderRadius": 0,
                         "borderWidth": 0,
-                        "height": 254,
+                        "height": 226,
                         "locked": false,
                         "visible": true,
                         "width": 154,
@@ -3894,7 +3894,7 @@
                             "depth": 0,
                             "direction": 0
                         },
-                        "rotation": -62.888
+                        "rotation": -60.033
                     },
                     "general": {
                         "backgroundColor": {
@@ -3907,12 +3907,12 @@
                         },
                         "borderRadius": 0,
                         "borderWidth": 0,
-                        "height": 115.76,
+                        "height": 112.89,
                         "locked": false,
                         "visible": true,
-                        "width": 142.68,
-                        "x": 510.44,
-                        "y": 190
+                        "width": 130.44,
+                        "x": 513.95,
+                        "y": 186.25
                     },
                     "id": 53,
                     "macros": {},
@@ -3963,7 +3963,7 @@
                             "depth": 0,
                             "direction": 0
                         },
-                        "rotation": 62.888
+                        "rotation": 60.033
                     },
                     "general": {
                         "backgroundColor": {
@@ -3976,12 +3976,12 @@
                         },
                         "borderRadius": 0,
                         "borderWidth": 0,
-                        "height": 115.76,
+                        "height": 112.89,
                         "locked": false,
                         "visible": true,
-                        "width": 142.68,
-                        "x": 510.44,
-                        "y": 264.24
+                        "width": 130.44,
+                        "x": 513.95,
+                        "y": 242.86
                     },
                     "id": 54,
                     "macros": {},
@@ -4032,7 +4032,7 @@
                             "depth": 0,
                             "direction": 0
                         },
-                        "rotation": -117.112
+                        "rotation": -119.967
                     },
                     "general": {
                         "backgroundColor": {
@@ -4045,12 +4045,12 @@
                         },
                         "borderRadius": 0,
                         "borderWidth": 0,
-                        "height": 115.76,
+                        "height": 112.89,
                         "locked": false,
                         "visible": true,
-                        "width": 142.68,
-                        "x": 626.88,
-                        "y": 190
+                        "width": 130.44,
+                        "x": 635.62,
+                        "y": 186.25
                     },
                     "id": 55,
                     "macros": {},
@@ -4101,7 +4101,7 @@
                             "depth": 0,
                             "direction": 0
                         },
-                        "rotation": 117.112
+                        "rotation": 119.967
                     },
                     "general": {
                         "backgroundColor": {
@@ -4114,12 +4114,12 @@
                         },
                         "borderRadius": 0,
                         "borderWidth": 0,
-                        "height": 115.76,
+                        "height": 112.89,
                         "locked": false,
                         "visible": true,
-                        "width": 142.68,
-                        "x": 626.88,
-                        "y": 264.24
+                        "width": 130.44,
+                        "x": 635.62,
+                        "y": 242.86
                     },
                     "id": 56,
                     "macros": {},
@@ -4183,7 +4183,7 @@
                         },
                         "borderRadius": 0,
                         "borderWidth": 0,
-                        "height": 246,
+                        "height": 218,
                         "locked": false,
                         "visible": true,
                         "width": 150,
@@ -4239,7 +4239,7 @@
                             "depth": 0,
                             "direction": 0
                         },
-                        "rotation": -62.888
+                        "rotation": -60.033
                     },
                     "general": {
                         "backgroundColor": {
@@ -4252,12 +4252,12 @@
                         },
                         "borderRadius": 0,
                         "borderWidth": 0,
-                        "height": 112.11,
+                        "height": 108.89,
                         "locked": false,
                         "visible": true,
-                        "width": 138.18,
-                        "x": 514.54,
-                        "y": 192.99
+                        "width": 125.82,
+                        "x": 517.99,
+                        "y": 189.25
                     },
                     "id": 58,
                     "macros": {},
@@ -4308,7 +4308,7 @@
                             "depth": 0,
                             "direction": 0
                         },
-                        "rotation": 62.888
+                        "rotation": 60.033
                     },
                     "general": {
                         "backgroundColor": {
@@ -4321,12 +4321,12 @@
                         },
                         "borderRadius": 0,
                         "borderWidth": 0,
-                        "height": 112.11,
+                        "height": 108.89,
                         "locked": false,
                         "visible": true,
-                        "width": 138.18,
-                        "x": 514.54,
-                        "y": 264.9
+                        "width": 125.82,
+                        "x": 517.99,
+                        "y": 243.86
                     },
                     "id": 59,
                     "macros": {},
@@ -4377,7 +4377,7 @@
                             "depth": 0,
                             "direction": 0
                         },
-                        "rotation": -117.112
+                        "rotation": -119.967
                     },
                     "general": {
                         "backgroundColor": {
@@ -4390,12 +4390,12 @@
                         },
                         "borderRadius": 0,
                         "borderWidth": 0,
-                        "height": 112.11,
+                        "height": 108.89,
                         "locked": false,
                         "visible": true,
-                        "width": 138.18,
-                        "x": 627.28,
-                        "y": 192.99
+                        "width": 125.82,
+                        "x": 636.19,
+                        "y": 189.25
                     },
                     "id": 60,
                     "macros": {},
@@ -4446,7 +4446,7 @@
                             "depth": 0,
                             "direction": 0
                         },
-                        "rotation": 117.112
+                        "rotation": 119.967
                     },
                     "general": {
                         "backgroundColor": {
@@ -4459,12 +4459,12 @@
                         },
                         "borderRadius": 0,
                         "borderWidth": 0,
-                        "height": 112.11,
+                        "height": 108.89,
                         "locked": false,
                         "visible": true,
-                        "width": 138.18,
-                        "x": 627.28,
-                        "y": 264.9
+                        "width": 125.82,
+                        "x": 636.19,
+                        "y": 243.86
                     },
                     "id": 61,
                     "macros": {},
@@ -4519,7 +4519,7 @@
                     },
                     "general": {
                         "backgroundColor": {
-                            "color": "#FF2A3024",
+                            "color": "#FFFFC20E",
                             "type": "SOLID"
                         },
                         "borderColor": {
@@ -4528,7 +4528,7 @@
                         },
                         "borderRadius": 0,
                         "borderWidth": 0,
-                        "height": 224,
+                        "height": 196,
                         "locked": false,
                         "visible": true,
                         "width": 136,
@@ -4584,11 +4584,11 @@
                             "depth": 0,
                             "direction": 0
                         },
-                        "rotation": -62.888
+                        "rotation": -60.033
                     },
                     "general": {
                         "backgroundColor": {
-                            "color": "#FF2A3024",
+                            "color": "#FFFFC20E",
                             "type": "SOLID"
                         },
                         "borderColor": {
@@ -4597,12 +4597,12 @@
                         },
                         "borderRadius": 0,
                         "borderWidth": 0,
-                        "height": 102.09,
+                        "height": 97.9,
                         "locked": false,
                         "visible": true,
-                        "width": 125.83,
-                        "x": 525.8,
-                        "y": 201.22
+                        "width": 113.12,
+                        "x": 529.1,
+                        "y": 197.5
                     },
                     "id": 63,
                     "macros": {},
@@ -4653,11 +4653,11 @@
                             "depth": 0,
                             "direction": 0
                         },
-                        "rotation": 62.888
+                        "rotation": 60.033
                     },
                     "general": {
                         "backgroundColor": {
-                            "color": "#FF2A3024",
+                            "color": "#FFFFC20E",
                             "type": "SOLID"
                         },
                         "borderColor": {
@@ -4666,12 +4666,12 @@
                         },
                         "borderRadius": 0,
                         "borderWidth": 0,
-                        "height": 102.09,
+                        "height": 97.9,
                         "locked": false,
                         "visible": true,
-                        "width": 125.83,
-                        "x": 525.8,
-                        "y": 266.7
+                        "width": 113.12,
+                        "x": 529.1,
+                        "y": 246.6
                     },
                     "id": 64,
                     "macros": {},
@@ -4722,11 +4722,11 @@
                             "depth": 0,
                             "direction": 0
                         },
-                        "rotation": -117.112
+                        "rotation": -119.967
                     },
                     "general": {
                         "backgroundColor": {
-                            "color": "#FF2A3024",
+                            "color": "#FFFFC20E",
                             "type": "SOLID"
                         },
                         "borderColor": {
@@ -4735,12 +4735,12 @@
                         },
                         "borderRadius": 0,
                         "borderWidth": 0,
-                        "height": 102.09,
+                        "height": 97.9,
                         "locked": false,
                         "visible": true,
-                        "width": 125.83,
-                        "x": 628.38,
-                        "y": 201.22
+                        "width": 113.12,
+                        "x": 637.77,
+                        "y": 197.5
                     },
                     "id": 65,
                     "macros": {},
@@ -4791,11 +4791,11 @@
                             "depth": 0,
                             "direction": 0
                         },
-                        "rotation": 117.112
+                        "rotation": 119.967
                     },
                     "general": {
                         "backgroundColor": {
-                            "color": "#FF2A3024",
+                            "color": "#FFFFC20E",
                             "type": "SOLID"
                         },
                         "borderColor": {
@@ -4804,12 +4804,12 @@
                         },
                         "borderRadius": 0,
                         "borderWidth": 0,
-                        "height": 102.09,
+                        "height": 97.9,
                         "locked": false,
                         "visible": true,
-                        "width": 125.83,
-                        "x": 628.38,
-                        "y": 266.7
+                        "width": 113.12,
+                        "x": 637.77,
+                        "y": 246.6
                     },
                     "id": 66,
                     "macros": {},
@@ -4873,7 +4873,7 @@
                         },
                         "borderRadius": 0,
                         "borderWidth": 0,
-                        "height": 220,
+                        "height": 192,
                         "locked": false,
                         "visible": true,
                         "width": 134,
@@ -4929,7 +4929,7 @@
                             "depth": 0,
                             "direction": 0
                         },
-                        "rotation": -62.888
+                        "rotation": -60.033
                     },
                     "general": {
                         "backgroundColor": {
@@ -4942,12 +4942,12 @@
                         },
                         "borderRadius": 0,
                         "borderWidth": 0,
-                        "height": 100.26,
+                        "height": 95.9,
                         "locked": false,
                         "visible": true,
-                        "width": 123.58,
-                        "x": 527.84,
-                        "y": 202.72
+                        "width": 110.81,
+                        "x": 531.12,
+                        "y": 199
                     },
                     "id": 68,
                     "macros": {},
@@ -4998,7 +4998,7 @@
                             "depth": 0,
                             "direction": 0
                         },
-                        "rotation": 62.888
+                        "rotation": 60.033
                     },
                     "general": {
                         "backgroundColor": {
@@ -5011,12 +5011,12 @@
                         },
                         "borderRadius": 0,
                         "borderWidth": 0,
-                        "height": 100.26,
+                        "height": 95.9,
                         "locked": false,
                         "visible": true,
-                        "width": 123.58,
-                        "x": 527.84,
-                        "y": 267.02
+                        "width": 110.81,
+                        "x": 531.12,
+                        "y": 247.1
                     },
                     "id": 69,
                     "macros": {},
@@ -5067,7 +5067,7 @@
                             "depth": 0,
                             "direction": 0
                         },
-                        "rotation": -117.112
+                        "rotation": -119.967
                     },
                     "general": {
                         "backgroundColor": {
@@ -5080,12 +5080,12 @@
                         },
                         "borderRadius": 0,
                         "borderWidth": 0,
-                        "height": 100.26,
+                        "height": 95.9,
                         "locked": false,
                         "visible": true,
-                        "width": 123.58,
-                        "x": 628.58,
-                        "y": 202.72
+                        "width": 110.81,
+                        "x": 638.06,
+                        "y": 199
                     },
                     "id": 70,
                     "macros": {},
@@ -5136,7 +5136,7 @@
                             "depth": 0,
                             "direction": 0
                         },
-                        "rotation": 117.112
+                        "rotation": 119.967
                     },
                     "general": {
                         "backgroundColor": {
@@ -5149,12 +5149,12 @@
                         },
                         "borderRadius": 0,
                         "borderWidth": 0,
-                        "height": 100.26,
+                        "height": 95.9,
                         "locked": false,
                         "visible": true,
-                        "width": 123.58,
-                        "x": 628.58,
-                        "y": 267.02
+                        "width": 110.81,
+                        "x": 638.06,
+                        "y": 247.1
                     },
                     "id": 71,
                     "macros": {},
@@ -5225,7 +5225,7 @@
                         },
                         "borderRadius": 0,
                         "borderWidth": 0,
-                        "height": 250,
+                        "height": 188,
                         "locked": false,
                         "visible": true,
                         "width": 280,
@@ -5242,7 +5242,7 @@
                             "type": "SOLID"
                         },
                         "fontFamily": "Lato",
-                        "fontSize": 210,
+                        "fontSize": 190,
                         "fontWeight": 500,
                         "horizontalAlignment": "AlignCenter",
                         "paddingBottom": 0,
@@ -5320,7 +5320,7 @@
                         },
                         "borderRadius": 0,
                         "borderWidth": 0,
-                        "height": 250,
+                        "height": 188,
                         "locked": false,
                         "visible": false,
                         "width": 280,
@@ -5337,7 +5337,7 @@
                             "type": "SOLID"
                         },
                         "fontFamily": "Lato",
-                        "fontSize": 210,
+                        "fontSize": 190,
                         "fontWeight": 500,
                         "horizontalAlignment": "AlignCenter",
                         "paddingBottom": 0,
@@ -5345,6 +5345,196 @@
                         "paddingRight": 0,
                         "paddingTop": 0,
                         "text": "N",
+                        "verticalAlignment": "AlignCenter",
+                        "wrapText": false
+                    },
+                    "textEffect": {
+                        "shadowBlur": 0,
+                        "shadowColor": {
+                            "color": "#00000000",
+                            "type": "SOLID"
+                        },
+                        "shadowDepth": 0,
+                        "shadowDirection": 0
+                    },
+                    "type": "Text.qml"
+                },
+                {
+                    "actions": {},
+                    "binding": {
+                        "general.visible": {
+                            "methods": [
+                                "(function(){var v=((function(){var n=function(v){v=Number(v);return(isFinite(v)&&Math.abs(v)<1e9)?v:0;};var f=n(Telemetry.get(\"v1/gameData/Fuel\").value); if(!(f>0))f=n(Telemetry.get(\"v1/gameData/FuelRemains\").value); var lap=n(Telemetry.get(\"v1/gameData/CurrentLap\").value), per=0; if(!(f>0))return {f:0,per:0,laps:0};try{var g=(function(){return this;})()||{}; var T=g.__cnFuel||(g.__cnFuel={lap:-1,start:0,hist:[],dirty:false}); if(f>0&&lap>0){  if(T.lap<0||lap<T.lap){T.hist=[];T.lap=lap;T.start=f;T.dirty=true;}  else if(lap>T.lap){var u=T.start-f; if(lap===T.lap+1&&!T.dirty&&u>0.05&&u<30){T.hist.push(u);if(T.hist.length>5)T.hist.shift();}   T.lap=lap;T.start=f;T.dirty=false;}  else if(f>T.start+0.3){T.start=f;T.dirty=true;} } if(T.hist.length){var t=0;for(var i=0;i<T.hist.length;i++)t+=T.hist[i];per=t/T.hist.length;}}catch(e){}if(!(per>0))per=Math.abs(n(Telemetry.get(\"v1/gameData/FuelConsumeLap\").value));var laps=(per>0&&f>0)?f/per:n(Telemetry.get(\"v1/gameData/FuelLaps\").value); if(!(per>0)&&f>0&&laps>0)per=f/laps;return {f:Math.max(0,f),per:per,laps:laps};})()).laps; return (v>2&&v<=5)?1:0;})()",
+                                "_result"
+                            ],
+                            "type": "METHOD_CHAINING"
+                        }
+                    },
+                    "borderStyle": {
+                        "allBorders": 0,
+                        "allCornerRadius": 0,
+                        "borderColor": {
+                            "color": "#00000000",
+                            "type": "SOLID"
+                        },
+                        "bordersBottom": 0,
+                        "bordersLeft": 0,
+                        "bordersRight": 0,
+                        "bordersTop": 0,
+                        "radiusBottomLeft": 0,
+                        "radiusBottomRight": 0,
+                        "radiusTopLeft": 0,
+                        "radiusTopRight": 0
+                    },
+                    "children": [],
+                    "effect": {
+                        "blinkDelay": 250,
+                        "blinkEnabled": false,
+                        "blurRadius": 0,
+                        "gravitySensorEnabled": false,
+                        "opacity": 100,
+                        "outerShadow": {
+                            "blur": 0,
+                            "color": {
+                                "color": "#00000000",
+                                "type": "SOLID"
+                            },
+                            "depth": 0,
+                            "direction": 0
+                        },
+                        "rotation": 0
+                    },
+                    "general": {
+                        "backgroundColor": {
+                            "color": "#00000000",
+                            "type": "SOLID"
+                        },
+                        "borderColor": {
+                            "color": "#FFFFC20E",
+                            "type": "SOLID"
+                        },
+                        "borderRadius": 13,
+                        "borderWidth": 2,
+                        "height": 26,
+                        "locked": false,
+                        "visible": false,
+                        "width": 140,
+                        "x": 570,
+                        "y": 338
+                    },
+                    "id": 74,
+                    "macros": {},
+                    "name": "Fuel warning yellow",
+                    "plugins": [],
+                    "text": {
+                        "fontColor": {
+                            "color": "#FFFFC20E",
+                            "type": "SOLID"
+                        },
+                        "fontFamily": "Lato",
+                        "fontSize": 18,
+                        "fontWeight": 700,
+                        "horizontalAlignment": "AlignCenter",
+                        "paddingBottom": 0,
+                        "paddingLeft": 0,
+                        "paddingRight": 0,
+                        "paddingTop": 0,
+                        "text": "LOW FUEL",
+                        "verticalAlignment": "AlignCenter",
+                        "wrapText": false
+                    },
+                    "textEffect": {
+                        "shadowBlur": 0,
+                        "shadowColor": {
+                            "color": "#00000000",
+                            "type": "SOLID"
+                        },
+                        "shadowDepth": 0,
+                        "shadowDirection": 0
+                    },
+                    "type": "Text.qml"
+                },
+                {
+                    "actions": {},
+                    "binding": {
+                        "general.visible": {
+                            "methods": [
+                                "(function(){var v=((function(){var n=function(v){v=Number(v);return(isFinite(v)&&Math.abs(v)<1e9)?v:0;};var f=n(Telemetry.get(\"v1/gameData/Fuel\").value); if(!(f>0))f=n(Telemetry.get(\"v1/gameData/FuelRemains\").value); var lap=n(Telemetry.get(\"v1/gameData/CurrentLap\").value), per=0; if(!(f>0))return {f:0,per:0,laps:0};try{var g=(function(){return this;})()||{}; var T=g.__cnFuel||(g.__cnFuel={lap:-1,start:0,hist:[],dirty:false}); if(f>0&&lap>0){  if(T.lap<0||lap<T.lap){T.hist=[];T.lap=lap;T.start=f;T.dirty=true;}  else if(lap>T.lap){var u=T.start-f; if(lap===T.lap+1&&!T.dirty&&u>0.05&&u<30){T.hist.push(u);if(T.hist.length>5)T.hist.shift();}   T.lap=lap;T.start=f;T.dirty=false;}  else if(f>T.start+0.3){T.start=f;T.dirty=true;} } if(T.hist.length){var t=0;for(var i=0;i<T.hist.length;i++)t+=T.hist[i];per=t/T.hist.length;}}catch(e){}if(!(per>0))per=Math.abs(n(Telemetry.get(\"v1/gameData/FuelConsumeLap\").value));var laps=(per>0&&f>0)?f/per:n(Telemetry.get(\"v1/gameData/FuelLaps\").value); if(!(per>0)&&f>0&&laps>0)per=f/laps;return {f:Math.max(0,f),per:per,laps:laps};})()).laps; return (v>0&&v<=2)?1:0;})()",
+                                "_result"
+                            ],
+                            "type": "METHOD_CHAINING"
+                        }
+                    },
+                    "borderStyle": {
+                        "allBorders": 0,
+                        "allCornerRadius": 0,
+                        "borderColor": {
+                            "color": "#00000000",
+                            "type": "SOLID"
+                        },
+                        "bordersBottom": 0,
+                        "bordersLeft": 0,
+                        "bordersRight": 0,
+                        "bordersTop": 0,
+                        "radiusBottomLeft": 0,
+                        "radiusBottomRight": 0,
+                        "radiusTopLeft": 0,
+                        "radiusTopRight": 0
+                    },
+                    "children": [],
+                    "effect": {
+                        "blinkDelay": 250,
+                        "blinkEnabled": false,
+                        "blurRadius": 0,
+                        "gravitySensorEnabled": false,
+                        "opacity": 100,
+                        "outerShadow": {
+                            "blur": 0,
+                            "color": {
+                                "color": "#00000000",
+                                "type": "SOLID"
+                            },
+                            "depth": 0,
+                            "direction": 0
+                        },
+                        "rotation": 0
+                    },
+                    "general": {
+                        "backgroundColor": {
+                            "color": "#00000000",
+                            "type": "SOLID"
+                        },
+                        "borderColor": {
+                            "color": "#FFF4221F",
+                            "type": "SOLID"
+                        },
+                        "borderRadius": 13,
+                        "borderWidth": 2,
+                        "height": 26,
+                        "locked": false,
+                        "visible": false,
+                        "width": 140,
+                        "x": 570,
+                        "y": 338
+                    },
+                    "id": 75,
+                    "macros": {},
+                    "name": "Fuel warning red",
+                    "plugins": [],
+                    "text": {
+                        "fontColor": {
+                            "color": "#FFF4221F",
+                            "type": "SOLID"
+                        },
+                        "fontFamily": "Lato",
+                        "fontSize": 18,
+                        "fontWeight": 700,
+                        "horizontalAlignment": "AlignCenter",
+                        "paddingBottom": 0,
+                        "paddingLeft": 0,
+                        "paddingRight": 0,
+                        "paddingTop": 0,
+                        "text": "LOW FUEL",
                         "verticalAlignment": "AlignCenter",
                         "wrapText": false
                     },
@@ -5406,7 +5596,7 @@
                     },
                     "general": {
                         "backgroundColor": {
-                            "color": "#FF74D600",
+                            "color": "#FF009246",
                             "type": "SOLID"
                         },
                         "borderColor": {
@@ -5415,154 +5605,16 @@
                         },
                         "borderRadius": 0,
                         "borderWidth": 0,
-                        "height": 4,
+                        "height": 20,
                         "locked": false,
                         "visible": true,
-                        "width": 14,
-                        "x": 486,
-                        "y": 283
-                    },
-                    "id": 74,
-                    "macros": {},
-                    "name": "Wing -1",
-                    "plugins": [],
-                    "type": "Rectangle.qml"
-                },
-                {
-                    "actions": {},
-                    "binding": {},
-                    "borderStyle": {
-                        "allBorders": 0,
-                        "allCornerRadius": 0,
-                        "borderColor": {
-                            "color": "#00000000",
-                            "type": "SOLID"
-                        },
-                        "bordersBottom": 0,
-                        "bordersLeft": 0,
-                        "bordersRight": 0,
-                        "bordersTop": 0,
-                        "radiusBottomLeft": 0,
-                        "radiusBottomRight": 0,
-                        "radiusTopLeft": 0,
-                        "radiusTopRight": 0
-                    },
-                    "children": [],
-                    "effect": {
-                        "blinkDelay": 180,
-                        "blinkEnabled": false,
-                        "blurRadius": 0,
-                        "gravitySensorEnabled": false,
-                        "innerShadow": {
-                            "blur": 0,
-                            "color": {
-                                "color": "#FFFFFF",
-                                "type": "SOLID"
-                            },
-                            "size": 0
-                        },
-                        "opacity": 100,
-                        "outerShadow": {
-                            "blur": 0,
-                            "color": {
-                                "color": "#00000000",
-                                "type": "SOLID"
-                            },
-                            "depth": 0,
-                            "direction": 0
-                        },
-                        "rotation": 55
-                    },
-                    "general": {
-                        "backgroundColor": {
-                            "color": "#FF74D600",
-                            "type": "SOLID"
-                        },
-                        "borderColor": {
-                            "color": "#00000000",
-                            "type": "SOLID"
-                        },
-                        "borderRadius": 0,
-                        "borderWidth": 0,
-                        "height": 4,
-                        "locked": false,
-                        "visible": true,
-                        "width": 22,
-                        "x": 469,
-                        "y": 275
-                    },
-                    "id": 75,
-                    "macros": {},
-                    "name": "Wing -1-1",
-                    "plugins": [],
-                    "type": "Rectangle.qml"
-                },
-                {
-                    "actions": {},
-                    "binding": {},
-                    "borderStyle": {
-                        "allBorders": 0,
-                        "allCornerRadius": 0,
-                        "borderColor": {
-                            "color": "#00000000",
-                            "type": "SOLID"
-                        },
-                        "bordersBottom": 0,
-                        "bordersLeft": 0,
-                        "bordersRight": 0,
-                        "bordersTop": 0,
-                        "radiusBottomLeft": 0,
-                        "radiusBottomRight": 0,
-                        "radiusTopLeft": 0,
-                        "radiusTopRight": 0
-                    },
-                    "children": [],
-                    "effect": {
-                        "blinkDelay": 180,
-                        "blinkEnabled": false,
-                        "blurRadius": 0,
-                        "gravitySensorEnabled": false,
-                        "innerShadow": {
-                            "blur": 0,
-                            "color": {
-                                "color": "#FFFFFF",
-                                "type": "SOLID"
-                            },
-                            "size": 0
-                        },
-                        "opacity": 100,
-                        "outerShadow": {
-                            "blur": 0,
-                            "color": {
-                                "color": "#00000000",
-                                "type": "SOLID"
-                            },
-                            "depth": 0,
-                            "direction": 0
-                        },
-                        "rotation": -55
-                    },
-                    "general": {
-                        "backgroundColor": {
-                            "color": "#FF74D600",
-                            "type": "SOLID"
-                        },
-                        "borderColor": {
-                            "color": "#00000000",
-                            "type": "SOLID"
-                        },
-                        "borderRadius": 0,
-                        "borderWidth": 0,
-                        "height": 4,
-                        "locked": false,
-                        "visible": true,
-                        "width": 22,
-                        "x": 469,
-                        "y": 291
+                        "width": 53,
+                        "x": 564,
+                        "y": 390
                     },
                     "id": 76,
                     "macros": {},
-                    "name": "Wing -1+1",
+                    "name": "Flag 0",
                     "plugins": [],
                     "type": "Rectangle.qml"
                 },
@@ -5613,7 +5665,7 @@
                     },
                     "general": {
                         "backgroundColor": {
-                            "color": "#FF74D600",
+                            "color": "#FFF4F5F0",
                             "type": "SOLID"
                         },
                         "borderColor": {
@@ -5622,16 +5674,16 @@
                         },
                         "borderRadius": 0,
                         "borderWidth": 0,
-                        "height": 4,
+                        "height": 20,
                         "locked": false,
                         "visible": true,
-                        "width": 14,
-                        "x": 780,
-                        "y": 283
+                        "width": 46,
+                        "x": 617,
+                        "y": 390
                     },
                     "id": 77,
                     "macros": {},
-                    "name": "Wing +1",
+                    "name": "Flag 1",
                     "plugins": [],
                     "type": "Rectangle.qml"
                 },
@@ -5678,11 +5730,11 @@
                             "depth": 0,
                             "direction": 0
                         },
-                        "rotation": -55
+                        "rotation": 0
                     },
                     "general": {
                         "backgroundColor": {
-                            "color": "#FF74D600",
+                            "color": "#FFCE2B37",
                             "type": "SOLID"
                         },
                         "borderColor": {
@@ -5691,16 +5743,16 @@
                         },
                         "borderRadius": 0,
                         "borderWidth": 0,
-                        "height": 4,
+                        "height": 20,
                         "locked": false,
                         "visible": true,
-                        "width": 22,
-                        "x": 789,
-                        "y": 275
+                        "width": 53,
+                        "x": 663,
+                        "y": 390
                     },
                     "id": 78,
                     "macros": {},
-                    "name": "Wing +1-1",
+                    "name": "Flag 2",
                     "plugins": [],
                     "type": "Rectangle.qml"
                 },
@@ -5747,11 +5799,11 @@
                             "depth": 0,
                             "direction": 0
                         },
-                        "rotation": 55
+                        "rotation": 60.033
                     },
                     "general": {
                         "backgroundColor": {
-                            "color": "#FF74D600",
+                            "color": "#FF0B0D09",
                             "type": "SOLID"
                         },
                         "borderColor": {
@@ -5760,16 +5812,85 @@
                         },
                         "borderRadius": 0,
                         "borderWidth": 0,
-                        "height": 4,
+                        "height": 14,
                         "locked": false,
                         "visible": true,
-                        "width": 22,
-                        "x": 789,
-                        "y": 291
+                        "width": 33.09,
+                        "x": 549.46,
+                        "y": 396.5
                     },
                     "id": 79,
                     "macros": {},
-                    "name": "Wing +1+1",
+                    "name": "Flag cut L",
+                    "plugins": [],
+                    "type": "Rectangle.qml"
+                },
+                {
+                    "actions": {},
+                    "binding": {},
+                    "borderStyle": {
+                        "allBorders": 0,
+                        "allCornerRadius": 0,
+                        "borderColor": {
+                            "color": "#00000000",
+                            "type": "SOLID"
+                        },
+                        "bordersBottom": 0,
+                        "bordersLeft": 0,
+                        "bordersRight": 0,
+                        "bordersTop": 0,
+                        "radiusBottomLeft": 0,
+                        "radiusBottomRight": 0,
+                        "radiusTopLeft": 0,
+                        "radiusTopRight": 0
+                    },
+                    "children": [],
+                    "effect": {
+                        "blinkDelay": 180,
+                        "blinkEnabled": false,
+                        "blurRadius": 0,
+                        "gravitySensorEnabled": false,
+                        "innerShadow": {
+                            "blur": 0,
+                            "color": {
+                                "color": "#FFFFFF",
+                                "type": "SOLID"
+                            },
+                            "size": 0
+                        },
+                        "opacity": 100,
+                        "outerShadow": {
+                            "blur": 0,
+                            "color": {
+                                "color": "#00000000",
+                                "type": "SOLID"
+                            },
+                            "depth": 0,
+                            "direction": 0
+                        },
+                        "rotation": 119.967
+                    },
+                    "general": {
+                        "backgroundColor": {
+                            "color": "#FF0B0D09",
+                            "type": "SOLID"
+                        },
+                        "borderColor": {
+                            "color": "#00000000",
+                            "type": "SOLID"
+                        },
+                        "borderRadius": 0,
+                        "borderWidth": 0,
+                        "height": 14,
+                        "locked": false,
+                        "visible": true,
+                        "width": 33.09,
+                        "x": 697.45,
+                        "y": 396.5
+                    },
+                    "id": 80,
+                    "macros": {},
+                    "name": "Flag cut R",
                     "plugins": [],
                     "type": "Rectangle.qml"
                 },
@@ -5836,7 +5957,7 @@
                         "x": 490,
                         "y": 420
                     },
-                    "id": 80,
+                    "id": 81,
                     "macros": {},
                     "name": "Speed bg",
                     "plugins": [],
@@ -5905,7 +6026,7 @@
                         "x": 490,
                         "y": 420
                     },
-                    "id": 81,
+                    "id": 82,
                     "macros": {},
                     "name": "Speed accent",
                     "plugins": [],
@@ -5974,7 +6095,7 @@
                         "x": 781.48,
                         "y": 411.48
                     },
-                    "id": 82,
+                    "id": 83,
                     "macros": {},
                     "name": "Speed cut",
                     "plugins": [],
@@ -6035,7 +6156,7 @@
                         "x": 506,
                         "y": 428
                     },
-                    "id": 83,
+                    "id": 84,
                     "macros": {},
                     "name": "Speed label",
                     "plugins": [],
@@ -6130,7 +6251,7 @@
                         "x": 490,
                         "y": 446
                     },
-                    "id": 84,
+                    "id": 85,
                     "macros": {},
                     "name": "Speed",
                     "plugins": [],
@@ -6225,7 +6346,7 @@
                         "x": 810,
                         "y": 160
                     },
-                    "id": 85,
+                    "id": 86,
                     "macros": {},
                     "name": "FUEL / LAP bg",
                     "plugins": [],
@@ -6294,7 +6415,7 @@
                         "x": 810,
                         "y": 160
                     },
-                    "id": 86,
+                    "id": 87,
                     "macros": {},
                     "name": "FUEL / LAP accent",
                     "plugins": [],
@@ -6363,7 +6484,7 @@
                         "x": 1021.48,
                         "y": 151.48
                     },
-                    "id": 87,
+                    "id": 88,
                     "macros": {},
                     "name": "FUEL / LAP cut",
                     "plugins": [],
@@ -6424,7 +6545,7 @@
                         "x": 826,
                         "y": 172
                     },
-                    "id": 88,
+                    "id": 89,
                     "macros": {},
                     "name": "FUEL / LAP label",
                     "plugins": [],
@@ -6461,7 +6582,7 @@
                     "binding": {
                         "text.text": {
                             "methods": [
-                                "(function(){var v=Math.abs((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/FuelConsumeLap\").value)); if(!(v>0)){var f=(function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Fuel\").value); if(!f)f=(function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/FuelRemains\").value); var l=(function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/FuelLaps\").value); if(f>0&&l>0)v=f/l;} return v>0?v.toFixed(2):\"--\";})()",
+                                "(function(){var s=(function(){var n=function(v){v=Number(v);return(isFinite(v)&&Math.abs(v)<1e9)?v:0;};var f=n(Telemetry.get(\"v1/gameData/Fuel\").value); if(!(f>0))f=n(Telemetry.get(\"v1/gameData/FuelRemains\").value); var lap=n(Telemetry.get(\"v1/gameData/CurrentLap\").value), per=0; if(!(f>0))return {f:0,per:0,laps:0};try{var g=(function(){return this;})()||{}; var T=g.__cnFuel||(g.__cnFuel={lap:-1,start:0,hist:[],dirty:false}); if(f>0&&lap>0){  if(T.lap<0||lap<T.lap){T.hist=[];T.lap=lap;T.start=f;T.dirty=true;}  else if(lap>T.lap){var u=T.start-f; if(lap===T.lap+1&&!T.dirty&&u>0.05&&u<30){T.hist.push(u);if(T.hist.length>5)T.hist.shift();}   T.lap=lap;T.start=f;T.dirty=false;}  else if(f>T.start+0.3){T.start=f;T.dirty=true;} } if(T.hist.length){var t=0;for(var i=0;i<T.hist.length;i++)t+=T.hist[i];per=t/T.hist.length;}}catch(e){}if(!(per>0))per=Math.abs(n(Telemetry.get(\"v1/gameData/FuelConsumeLap\").value));var laps=(per>0&&f>0)?f/per:n(Telemetry.get(\"v1/gameData/FuelLaps\").value); if(!(per>0)&&f>0&&laps>0)per=f/laps;return {f:Math.max(0,f),per:per,laps:laps};})(); return s.per>0?(s.per*0.264172).toFixed(2):\"--\";})()",
                                 "_result"
                             ],
                             "type": "METHOD_CHAINING"
@@ -6519,7 +6640,7 @@
                         "x": 810,
                         "y": 206
                     },
-                    "id": 89,
+                    "id": 90,
                     "macros": {},
                     "name": "FUEL / LAP value",
                     "plugins": [],
@@ -6536,7 +6657,7 @@
                         "paddingLeft": 0,
                         "paddingRight": 0,
                         "paddingTop": 0,
-                        "text": "2.81",
+                        "text": "0.74",
                         "verticalAlignment": "AlignCenter",
                         "wrapText": false
                     },
@@ -6606,7 +6727,7 @@
                         "x": 810,
                         "y": 300
                     },
-                    "id": 90,
+                    "id": 91,
                     "macros": {},
                     "name": "FUEL / LAP unit",
                     "plugins": [],
@@ -6623,7 +6744,7 @@
                         "paddingLeft": 0,
                         "paddingRight": 0,
                         "paddingTop": 0,
-                        "text": "LITRES",
+                        "text": "GALLONS",
                         "verticalAlignment": "AlignCenter",
                         "wrapText": false
                     },
@@ -6701,7 +6822,7 @@
                         "x": 1040,
                         "y": 160
                     },
-                    "id": 91,
+                    "id": 92,
                     "macros": {},
                     "name": "LAPS LEFT bg",
                     "plugins": [],
@@ -6712,7 +6833,7 @@
                     "binding": {
                         "general.backgroundColor": {
                             "methods": [
-                                "(function(){var v=(function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/FuelLaps\").value); return !(v>0)?\"#2A3024\":(v<2?\"#F4221F\":(v<5?\"#FFC20E\":\"#74D600\"));})()",
+                                "(function(){var v=((function(){var n=function(v){v=Number(v);return(isFinite(v)&&Math.abs(v)<1e9)?v:0;};var f=n(Telemetry.get(\"v1/gameData/Fuel\").value); if(!(f>0))f=n(Telemetry.get(\"v1/gameData/FuelRemains\").value); var lap=n(Telemetry.get(\"v1/gameData/CurrentLap\").value), per=0; if(!(f>0))return {f:0,per:0,laps:0};try{var g=(function(){return this;})()||{}; var T=g.__cnFuel||(g.__cnFuel={lap:-1,start:0,hist:[],dirty:false}); if(f>0&&lap>0){  if(T.lap<0||lap<T.lap){T.hist=[];T.lap=lap;T.start=f;T.dirty=true;}  else if(lap>T.lap){var u=T.start-f; if(lap===T.lap+1&&!T.dirty&&u>0.05&&u<30){T.hist.push(u);if(T.hist.length>5)T.hist.shift();}   T.lap=lap;T.start=f;T.dirty=false;}  else if(f>T.start+0.3){T.start=f;T.dirty=true;} } if(T.hist.length){var t=0;for(var i=0;i<T.hist.length;i++)t+=T.hist[i];per=t/T.hist.length;}}catch(e){}if(!(per>0))per=Math.abs(n(Telemetry.get(\"v1/gameData/FuelConsumeLap\").value));var laps=(per>0&&f>0)?f/per:n(Telemetry.get(\"v1/gameData/FuelLaps\").value); if(!(per>0)&&f>0&&laps>0)per=f/laps;return {f:Math.max(0,f),per:per,laps:laps};})()).laps; return !(v>0)?\"#2A3024\":(v<=2?\"#F4221F\":(v<=5?\"#FFC20E\":\"#74D600\"));})()",
                                 "_result"
                             ],
                             "type": "METHOD_CHAINING"
@@ -6778,7 +6899,7 @@
                         "x": 1040,
                         "y": 160
                     },
-                    "id": 92,
+                    "id": 93,
                     "macros": {},
                     "name": "LAPS LEFT accent",
                     "plugins": [],
@@ -6847,7 +6968,7 @@
                         "x": 1251.48,
                         "y": 151.48
                     },
-                    "id": 93,
+                    "id": 94,
                     "macros": {},
                     "name": "LAPS LEFT cut",
                     "plugins": [],
@@ -6908,7 +7029,7 @@
                         "x": 1056,
                         "y": 172
                     },
-                    "id": 94,
+                    "id": 95,
                     "macros": {},
                     "name": "LAPS LEFT label",
                     "plugins": [],
@@ -6943,9 +7064,16 @@
                 {
                     "actions": {},
                     "binding": {
+                        "text.fontColor": {
+                            "methods": [
+                                "(function(){var v=((function(){var n=function(v){v=Number(v);return(isFinite(v)&&Math.abs(v)<1e9)?v:0;};var f=n(Telemetry.get(\"v1/gameData/Fuel\").value); if(!(f>0))f=n(Telemetry.get(\"v1/gameData/FuelRemains\").value); var lap=n(Telemetry.get(\"v1/gameData/CurrentLap\").value), per=0; if(!(f>0))return {f:0,per:0,laps:0};try{var g=(function(){return this;})()||{}; var T=g.__cnFuel||(g.__cnFuel={lap:-1,start:0,hist:[],dirty:false}); if(f>0&&lap>0){  if(T.lap<0||lap<T.lap){T.hist=[];T.lap=lap;T.start=f;T.dirty=true;}  else if(lap>T.lap){var u=T.start-f; if(lap===T.lap+1&&!T.dirty&&u>0.05&&u<30){T.hist.push(u);if(T.hist.length>5)T.hist.shift();}   T.lap=lap;T.start=f;T.dirty=false;}  else if(f>T.start+0.3){T.start=f;T.dirty=true;} } if(T.hist.length){var t=0;for(var i=0;i<T.hist.length;i++)t+=T.hist[i];per=t/T.hist.length;}}catch(e){}if(!(per>0))per=Math.abs(n(Telemetry.get(\"v1/gameData/FuelConsumeLap\").value));var laps=(per>0&&f>0)?f/per:n(Telemetry.get(\"v1/gameData/FuelLaps\").value); if(!(per>0)&&f>0&&laps>0)per=f/laps;return {f:Math.max(0,f),per:per,laps:laps};})()).laps; return !(v>0)?\"#F2F4EE\":(v<=2?\"#F4221F\":(v<=5?\"#FFC20E\":\"#F2F4EE\"));})()",
+                                "_result"
+                            ],
+                            "type": "METHOD_CHAINING"
+                        },
                         "text.text": {
                             "methods": [
-                                "(function(){var v=(function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/FuelLaps\").value); return v>0?v.toFixed(1):\"--\";})()",
+                                "(function(){var s=(function(){var n=function(v){v=Number(v);return(isFinite(v)&&Math.abs(v)<1e9)?v:0;};var f=n(Telemetry.get(\"v1/gameData/Fuel\").value); if(!(f>0))f=n(Telemetry.get(\"v1/gameData/FuelRemains\").value); var lap=n(Telemetry.get(\"v1/gameData/CurrentLap\").value), per=0; if(!(f>0))return {f:0,per:0,laps:0};try{var g=(function(){return this;})()||{}; var T=g.__cnFuel||(g.__cnFuel={lap:-1,start:0,hist:[],dirty:false}); if(f>0&&lap>0){  if(T.lap<0||lap<T.lap){T.hist=[];T.lap=lap;T.start=f;T.dirty=true;}  else if(lap>T.lap){var u=T.start-f; if(lap===T.lap+1&&!T.dirty&&u>0.05&&u<30){T.hist.push(u);if(T.hist.length>5)T.hist.shift();}   T.lap=lap;T.start=f;T.dirty=false;}  else if(f>T.start+0.3){T.start=f;T.dirty=true;} } if(T.hist.length){var t=0;for(var i=0;i<T.hist.length;i++)t+=T.hist[i];per=t/T.hist.length;}}catch(e){}if(!(per>0))per=Math.abs(n(Telemetry.get(\"v1/gameData/FuelConsumeLap\").value));var laps=(per>0&&f>0)?f/per:n(Telemetry.get(\"v1/gameData/FuelLaps\").value); if(!(per>0)&&f>0&&laps>0)per=f/laps;return {f:Math.max(0,f),per:per,laps:laps};})(); return s.laps>0?s.laps.toFixed(1):\"--\";})()",
                                 "_result"
                             ],
                             "type": "METHOD_CHAINING"
@@ -7003,7 +7131,7 @@
                         "x": 1040,
                         "y": 206
                     },
-                    "id": 95,
+                    "id": 96,
                     "macros": {},
                     "name": "LAPS LEFT value",
                     "plugins": [],
@@ -7090,7 +7218,7 @@
                         "x": 1040,
                         "y": 300
                     },
-                    "id": 96,
+                    "id": 97,
                     "macros": {},
                     "name": "LAPS LEFT unit",
                     "plugins": [],
@@ -7185,7 +7313,7 @@
                         "x": 810,
                         "y": 355
                     },
-                    "id": 97,
+                    "id": 98,
                     "macros": {},
                     "name": "GAP AHEAD bg",
                     "plugins": [],
@@ -7254,7 +7382,7 @@
                         "x": 810,
                         "y": 355
                     },
-                    "id": 98,
+                    "id": 99,
                     "macros": {},
                     "name": "GAP AHEAD accent",
                     "plugins": [],
@@ -7323,7 +7451,7 @@
                         "x": 1021.48,
                         "y": 346.48
                     },
-                    "id": 99,
+                    "id": 100,
                     "macros": {},
                     "name": "GAP AHEAD cut",
                     "plugins": [],
@@ -7384,7 +7512,7 @@
                         "x": 826,
                         "y": 367
                     },
-                    "id": 100,
+                    "id": 101,
                     "macros": {},
                     "name": "GAP AHEAD label",
                     "plugins": [],
@@ -7479,7 +7607,7 @@
                         "x": 810,
                         "y": 401
                     },
-                    "id": 101,
+                    "id": 102,
                     "macros": {},
                     "name": "GAP AHEAD value",
                     "plugins": [],
@@ -7566,7 +7694,7 @@
                         "x": 810,
                         "y": 495
                     },
-                    "id": 102,
+                    "id": 103,
                     "macros": {},
                     "name": "GAP AHEAD unit",
                     "plugins": [],
@@ -7661,7 +7789,7 @@
                         "x": 1040,
                         "y": 355
                     },
-                    "id": 103,
+                    "id": 104,
                     "macros": {},
                     "name": "GAP BEHIND bg",
                     "plugins": [],
@@ -7730,7 +7858,7 @@
                         "x": 1040,
                         "y": 355
                     },
-                    "id": 104,
+                    "id": 105,
                     "macros": {},
                     "name": "GAP BEHIND accent",
                     "plugins": [],
@@ -7799,7 +7927,7 @@
                         "x": 1251.48,
                         "y": 346.48
                     },
-                    "id": 105,
+                    "id": 106,
                     "macros": {},
                     "name": "GAP BEHIND cut",
                     "plugins": [],
@@ -7860,7 +7988,7 @@
                         "x": 1056,
                         "y": 367
                     },
-                    "id": 106,
+                    "id": 107,
                     "macros": {},
                     "name": "GAP BEHIND label",
                     "plugins": [],
@@ -7955,7 +8083,7 @@
                         "x": 1040,
                         "y": 401
                     },
-                    "id": 107,
+                    "id": 108,
                     "macros": {},
                     "name": "GAP BEHIND value",
                     "plugins": [],
@@ -8042,7 +8170,7 @@
                         "x": 1040,
                         "y": 495
                     },
-                    "id": 108,
+                    "id": 109,
                     "macros": {},
                     "name": "GAP BEHIND unit",
                     "plugins": [],
@@ -8137,7 +8265,7 @@
                         "x": 20,
                         "y": 560
                     },
-                    "id": 109,
+                    "id": 110,
                     "macros": {},
                     "name": "TC1 bg",
                     "plugins": [],
@@ -8206,7 +8334,7 @@
                         "x": 20,
                         "y": 560
                     },
-                    "id": 110,
+                    "id": 111,
                     "macros": {},
                     "name": "TC1 accent",
                     "plugins": [],
@@ -8275,7 +8403,7 @@
                         "x": 151.48,
                         "y": 551.48
                     },
-                    "id": 111,
+                    "id": 112,
                     "macros": {},
                     "name": "TC1 cut",
                     "plugins": [],
@@ -8336,7 +8464,7 @@
                         "x": 34,
                         "y": 570
                     },
-                    "id": 112,
+                    "id": 113,
                     "macros": {},
                     "name": "TC1 label",
                     "plugins": [],
@@ -8431,7 +8559,7 @@
                         "x": 20,
                         "y": 592
                     },
-                    "id": 113,
+                    "id": 114,
                     "macros": {},
                     "name": "TC1 value",
                     "plugins": [],
@@ -8526,7 +8654,7 @@
                         "x": 170,
                         "y": 560
                     },
-                    "id": 114,
+                    "id": 115,
                     "macros": {},
                     "name": "TC2 bg",
                     "plugins": [],
@@ -8595,7 +8723,7 @@
                         "x": 170,
                         "y": 560
                     },
-                    "id": 115,
+                    "id": 116,
                     "macros": {},
                     "name": "TC2 accent",
                     "plugins": [],
@@ -8664,7 +8792,7 @@
                         "x": 301.48,
                         "y": 551.48
                     },
-                    "id": 116,
+                    "id": 117,
                     "macros": {},
                     "name": "TC2 cut",
                     "plugins": [],
@@ -8725,7 +8853,7 @@
                         "x": 184,
                         "y": 570
                     },
-                    "id": 117,
+                    "id": 118,
                     "macros": {},
                     "name": "TC2 label",
                     "plugins": [],
@@ -8820,7 +8948,7 @@
                         "x": 170,
                         "y": 592
                     },
-                    "id": 118,
+                    "id": 119,
                     "macros": {},
                     "name": "TC2 value",
                     "plugins": [],
@@ -8915,7 +9043,7 @@
                         "x": 320,
                         "y": 560
                     },
-                    "id": 119,
+                    "id": 120,
                     "macros": {},
                     "name": "ABS bg",
                     "plugins": [],
@@ -8984,7 +9112,7 @@
                         "x": 320,
                         "y": 560
                     },
-                    "id": 120,
+                    "id": 121,
                     "macros": {},
                     "name": "ABS accent",
                     "plugins": [],
@@ -9053,7 +9181,7 @@
                         "x": 461.48,
                         "y": 551.48
                     },
-                    "id": 121,
+                    "id": 122,
                     "macros": {},
                     "name": "ABS cut",
                     "plugins": [],
@@ -9114,7 +9242,7 @@
                         "x": 334,
                         "y": 570
                     },
-                    "id": 122,
+                    "id": 123,
                     "macros": {},
                     "name": "ABS label",
                     "plugins": [],
@@ -9209,7 +9337,7 @@
                         "x": 320,
                         "y": 592
                     },
-                    "id": 123,
+                    "id": 124,
                     "macros": {},
                     "name": "ABS value",
                     "plugins": [],
@@ -9304,7 +9432,7 @@
                         "x": 490,
                         "y": 560
                     },
-                    "id": 124,
+                    "id": 125,
                     "macros": {},
                     "name": "BB bg",
                     "plugins": [],
@@ -9373,7 +9501,7 @@
                         "x": 490,
                         "y": 560
                     },
-                    "id": 125,
+                    "id": 126,
                     "macros": {},
                     "name": "BB accent",
                     "plugins": [],
@@ -9442,7 +9570,7 @@
                         "x": 781.48,
                         "y": 551.48
                     },
-                    "id": 126,
+                    "id": 127,
                     "macros": {},
                     "name": "BB cut",
                     "plugins": [],
@@ -9503,7 +9631,7 @@
                         "x": 504,
                         "y": 570
                     },
-                    "id": 127,
+                    "id": 128,
                     "macros": {},
                     "name": "BB label",
                     "plugins": [],
@@ -9598,7 +9726,7 @@
                         "x": 490,
                         "y": 592
                     },
-                    "id": 128,
+                    "id": 129,
                     "macros": {},
                     "name": "BB value",
                     "plugins": [],
@@ -9693,7 +9821,7 @@
                         "x": 810,
                         "y": 560
                     },
-                    "id": 129,
+                    "id": 130,
                     "macros": {},
                     "name": "MAP bg",
                     "plugins": [],
@@ -9762,7 +9890,7 @@
                         "x": 810,
                         "y": 560
                     },
-                    "id": 130,
+                    "id": 131,
                     "macros": {},
                     "name": "MAP accent",
                     "plugins": [],
@@ -9831,7 +9959,7 @@
                         "x": 941.48,
                         "y": 551.48
                     },
-                    "id": 131,
+                    "id": 132,
                     "macros": {},
                     "name": "MAP cut",
                     "plugins": [],
@@ -9892,7 +10020,7 @@
                         "x": 824,
                         "y": 570
                     },
-                    "id": 132,
+                    "id": 133,
                     "macros": {},
                     "name": "MAP label",
                     "plugins": [],
@@ -9987,7 +10115,7 @@
                         "x": 810,
                         "y": 592
                     },
-                    "id": 133,
+                    "id": 134,
                     "macros": {},
                     "name": "MAP value",
                     "plugins": [],
@@ -10082,7 +10210,7 @@
                         "x": 960,
                         "y": 560
                     },
-                    "id": 134,
+                    "id": 135,
                     "macros": {},
                     "name": "FUEL bg",
                     "plugins": [],
@@ -10151,7 +10279,7 @@
                         "x": 960,
                         "y": 560
                     },
-                    "id": 135,
+                    "id": 136,
                     "macros": {},
                     "name": "FUEL accent",
                     "plugins": [],
@@ -10220,7 +10348,7 @@
                         "x": 1251.48,
                         "y": 551.48
                     },
-                    "id": 136,
+                    "id": 137,
                     "macros": {},
                     "name": "FUEL cut",
                     "plugins": [],
@@ -10281,7 +10409,7 @@
                         "x": 974,
                         "y": 570
                     },
-                    "id": 137,
+                    "id": 138,
                     "macros": {},
                     "name": "FUEL label",
                     "plugins": [],
@@ -10318,7 +10446,7 @@
                     "binding": {
                         "text.text": {
                             "methods": [
-                                "(function(){var v=(function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Fuel\").value); if(!v)v=(function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/FuelRemains\").value); return v.toFixed(1)+\" L\";})()",
+                                "((function(){var s=(function(){var n=function(v){v=Number(v);return(isFinite(v)&&Math.abs(v)<1e9)?v:0;};var f=n(Telemetry.get(\"v1/gameData/Fuel\").value); if(!(f>0))f=n(Telemetry.get(\"v1/gameData/FuelRemains\").value); var lap=n(Telemetry.get(\"v1/gameData/CurrentLap\").value), per=0; if(!(f>0))return {f:0,per:0,laps:0};try{var g=(function(){return this;})()||{}; var T=g.__cnFuel||(g.__cnFuel={lap:-1,start:0,hist:[],dirty:false}); if(f>0&&lap>0){  if(T.lap<0||lap<T.lap){T.hist=[];T.lap=lap;T.start=f;T.dirty=true;}  else if(lap>T.lap){var u=T.start-f; if(lap===T.lap+1&&!T.dirty&&u>0.05&&u<30){T.hist.push(u);if(T.hist.length>5)T.hist.shift();}   T.lap=lap;T.start=f;T.dirty=false;}  else if(f>T.start+0.3){T.start=f;T.dirty=true;} } if(T.hist.length){var t=0;for(var i=0;i<T.hist.length;i++)t+=T.hist[i];per=t/T.hist.length;}}catch(e){}if(!(per>0))per=Math.abs(n(Telemetry.get(\"v1/gameData/FuelConsumeLap\").value));var laps=(per>0&&f>0)?f/per:n(Telemetry.get(\"v1/gameData/FuelLaps\").value); if(!(per>0)&&f>0&&laps>0)per=f/laps;return {f:Math.max(0,f),per:per,laps:laps};})(); return (s.f*0.264172).toFixed(1);})())+\" GAL\"",
                                 "_result"
                             ],
                             "type": "METHOD_CHAINING"
@@ -10376,7 +10504,7 @@
                         "x": 960,
                         "y": 592
                     },
-                    "id": 138,
+                    "id": 139,
                     "macros": {},
                     "name": "FUEL value",
                     "plugins": [],
@@ -10393,7 +10521,7 @@
                         "paddingLeft": 0,
                         "paddingRight": 0,
                         "paddingTop": 0,
-                        "text": "32.4 L",
+                        "text": "8.6 GAL",
                         "verticalAlignment": "AlignCenter",
                         "wrapText": false
                     },
@@ -10413,7 +10541,7 @@
                     "binding": {
                         "general.backgroundColor": {
                             "methods": [
-                                "(function(){if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/RedFlag\").value)>0)return \"#F4221F\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Flag_Black\").value)>0)return \"#F2F4EE\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Flag_Orange\").value)>0)return \"#FF7A00\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/YellowFlag\").value)>0)return \"#FFC20E\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/BlueFlag\").value)>0)return \"#2F7BFF\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/WhiteFlag\").value)>0)return \"#F2F4EE\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Flag_Checkered\").value)>0)return \"#F2F4EE\"; return \"#0B0D09\";})()",
+                                "(function(){if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/RedFlag\").value)>0)return \"#F4221F\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Flag_Black\").value)>0)return \"#F2F4EE\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Flag_Orange\").value)>0)return \"#FF7A00\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/YellowFlag\").value)>0)return \"#FFC20E\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/BlueFlag\").value)>0)return \"#2F7BFF\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/WhiteFlag\").value)>0)return \"#F2F4EE\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Flag_Checkered\").value)>0)return \"#F2F4EE\"; return \"#000000\";})()",
                                 "_result"
                             ],
                             "type": "METHOD_CHAINING"
@@ -10486,7 +10614,7 @@
                         "x": 0,
                         "y": 0
                     },
-                    "id": 139,
+                    "id": 140,
                     "macros": {},
                     "name": "Flag frame top",
                     "plugins": [],
@@ -10497,7 +10625,7 @@
                     "binding": {
                         "general.backgroundColor": {
                             "methods": [
-                                "(function(){if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/RedFlag\").value)>0)return \"#F4221F\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Flag_Black\").value)>0)return \"#F2F4EE\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Flag_Orange\").value)>0)return \"#FF7A00\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/YellowFlag\").value)>0)return \"#FFC20E\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/BlueFlag\").value)>0)return \"#2F7BFF\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/WhiteFlag\").value)>0)return \"#F2F4EE\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Flag_Checkered\").value)>0)return \"#F2F4EE\"; return \"#0B0D09\";})()",
+                                "(function(){if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/RedFlag\").value)>0)return \"#F4221F\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Flag_Black\").value)>0)return \"#F2F4EE\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Flag_Orange\").value)>0)return \"#FF7A00\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/YellowFlag\").value)>0)return \"#FFC20E\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/BlueFlag\").value)>0)return \"#2F7BFF\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/WhiteFlag\").value)>0)return \"#F2F4EE\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Flag_Checkered\").value)>0)return \"#F2F4EE\"; return \"#000000\";})()",
                                 "_result"
                             ],
                             "type": "METHOD_CHAINING"
@@ -10570,7 +10698,7 @@
                         "x": 0,
                         "y": 712
                     },
-                    "id": 140,
+                    "id": 141,
                     "macros": {},
                     "name": "Flag frame bottom",
                     "plugins": [],
@@ -10581,7 +10709,7 @@
                     "binding": {
                         "general.backgroundColor": {
                             "methods": [
-                                "(function(){if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/RedFlag\").value)>0)return \"#F4221F\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Flag_Black\").value)>0)return \"#F2F4EE\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Flag_Orange\").value)>0)return \"#FF7A00\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/YellowFlag\").value)>0)return \"#FFC20E\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/BlueFlag\").value)>0)return \"#2F7BFF\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/WhiteFlag\").value)>0)return \"#F2F4EE\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Flag_Checkered\").value)>0)return \"#F2F4EE\"; return \"#0B0D09\";})()",
+                                "(function(){if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/RedFlag\").value)>0)return \"#F4221F\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Flag_Black\").value)>0)return \"#F2F4EE\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Flag_Orange\").value)>0)return \"#FF7A00\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/YellowFlag\").value)>0)return \"#FFC20E\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/BlueFlag\").value)>0)return \"#2F7BFF\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/WhiteFlag\").value)>0)return \"#F2F4EE\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Flag_Checkered\").value)>0)return \"#F2F4EE\"; return \"#000000\";})()",
                                 "_result"
                             ],
                             "type": "METHOD_CHAINING"
@@ -10654,7 +10782,7 @@
                         "x": 0,
                         "y": 0
                     },
-                    "id": 141,
+                    "id": 142,
                     "macros": {},
                     "name": "Flag frame left",
                     "plugins": [],
@@ -10665,7 +10793,7 @@
                     "binding": {
                         "general.backgroundColor": {
                             "methods": [
-                                "(function(){if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/RedFlag\").value)>0)return \"#F4221F\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Flag_Black\").value)>0)return \"#F2F4EE\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Flag_Orange\").value)>0)return \"#FF7A00\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/YellowFlag\").value)>0)return \"#FFC20E\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/BlueFlag\").value)>0)return \"#2F7BFF\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/WhiteFlag\").value)>0)return \"#F2F4EE\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Flag_Checkered\").value)>0)return \"#F2F4EE\"; return \"#0B0D09\";})()",
+                                "(function(){if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/RedFlag\").value)>0)return \"#F4221F\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Flag_Black\").value)>0)return \"#F2F4EE\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Flag_Orange\").value)>0)return \"#FF7A00\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/YellowFlag\").value)>0)return \"#FFC20E\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/BlueFlag\").value)>0)return \"#2F7BFF\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/WhiteFlag\").value)>0)return \"#F2F4EE\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Flag_Checkered\").value)>0)return \"#F2F4EE\"; return \"#000000\";})()",
                                 "_result"
                             ],
                             "type": "METHOD_CHAINING"
@@ -10738,7 +10866,7 @@
                         "x": 1272,
                         "y": 0
                     },
-                    "id": 142,
+                    "id": 143,
                     "macros": {},
                     "name": "Flag frame right",
                     "plugins": [],
@@ -10756,7 +10884,7 @@
                         },
                         "text.fontColor": {
                             "methods": [
-                                "(function(){if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/RedFlag\").value)>0)return \"#F4221F\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Flag_Black\").value)>0)return \"#F2F4EE\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Flag_Orange\").value)>0)return \"#FF7A00\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/YellowFlag\").value)>0)return \"#FFC20E\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/BlueFlag\").value)>0)return \"#2F7BFF\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/WhiteFlag\").value)>0)return \"#F2F4EE\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Flag_Checkered\").value)>0)return \"#F2F4EE\"; return \"#0B0D09\";})()",
+                                "(function(){if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/RedFlag\").value)>0)return \"#F4221F\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Flag_Black\").value)>0)return \"#F2F4EE\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Flag_Orange\").value)>0)return \"#FF7A00\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/YellowFlag\").value)>0)return \"#FFC20E\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/BlueFlag\").value)>0)return \"#2F7BFF\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/WhiteFlag\").value)>0)return \"#F2F4EE\"; if((function(v){v=Number(v); return (isFinite(v)&&Math.abs(v)<1e9)?v:0;})(Telemetry.get(\"v1/gameData/Flag_Checkered\").value)>0)return \"#F2F4EE\"; return \"#000000\";})()",
                                 "_result"
                             ],
                             "type": "METHOD_CHAINING"
@@ -10821,7 +10949,7 @@
                         "x": 480,
                         "y": 120
                     },
-                    "id": 143,
+                    "id": 144,
                     "macros": {},
                     "name": "Flag name",
                     "plugins": [],
@@ -10864,7 +10992,7 @@
             },
             "general": {
                 "backgroundColor": {
-                    "color": "#FF0B0D09",
+                    "color": "#FF000000",
                     "type": "SOLID"
                 },
                 "borderColor": {
@@ -10973,7 +11101,7 @@
                         "x": 20,
                         "y": 16
                     },
-                    "id": 145,
+                    "id": 146,
                     "macros": {},
                     "name": "Pos bg",
                     "plugins": [],
@@ -11042,7 +11170,7 @@
                         "x": 20,
                         "y": 16
                     },
-                    "id": 146,
+                    "id": 147,
                     "macros": {},
                     "name": "Pos accent",
                     "plugins": [],
@@ -11111,7 +11239,7 @@
                         "x": 143.48,
                         "y": 7.48
                     },
-                    "id": 147,
+                    "id": 148,
                     "macros": {},
                     "name": "Pos cut",
                     "plugins": [],
@@ -11172,7 +11300,7 @@
                         "x": 32,
                         "y": 26
                     },
-                    "id": 148,
+                    "id": 149,
                     "macros": {},
                     "name": "Pos label",
                     "plugins": [],
@@ -11267,7 +11395,7 @@
                         "x": 20,
                         "y": 46
                     },
-                    "id": 149,
+                    "id": 150,
                     "macros": {},
                     "name": "Position",
                     "plugins": [],
@@ -11362,7 +11490,7 @@
                         "x": 176,
                         "y": 34
                     },
-                    "id": 150,
+                    "id": 151,
                     "macros": {},
                     "name": "Rev dim 0",
                     "plugins": [],
@@ -11431,7 +11559,7 @@
                         "x": 878,
                         "y": 34
                     },
-                    "id": 151,
+                    "id": 152,
                     "macros": {},
                     "name": "Rev dim 13",
                     "plugins": [],
@@ -11500,7 +11628,7 @@
                         "x": 1094,
                         "y": 34
                     },
-                    "id": 152,
+                    "id": 153,
                     "macros": {},
                     "name": "Rev dim 17",
                     "plugins": [],
@@ -11560,7 +11688,7 @@
                         "x": 176,
                         "y": 34
                     },
-                    "id": 153,
+                    "id": 154,
                     "linearGauge": {
                         "alternateStyle": {
                             "gaugeColor": {
@@ -11641,7 +11769,7 @@
                         "x": 878,
                         "y": 34
                     },
-                    "id": 154,
+                    "id": 155,
                     "linearGauge": {
                         "alternateStyle": {
                             "gaugeColor": {
@@ -11722,7 +11850,7 @@
                         "x": 1094,
                         "y": 34
                     },
-                    "id": 155,
+                    "id": 156,
                     "linearGauge": {
                         "alternateStyle": {
                             "gaugeColor": {
@@ -11812,7 +11940,7 @@
                         "x": 110.57,
                         "y": 67.09
                     },
-                    "id": 156,
+                    "id": 157,
                     "macros": {},
                     "name": "Rev cut 00",
                     "plugins": [],
@@ -11881,7 +12009,7 @@
                         "x": 164.57,
                         "y": 67.09
                     },
-                    "id": 157,
+                    "id": 158,
                     "macros": {},
                     "name": "Rev cut 01",
                     "plugins": [],
@@ -11950,7 +12078,7 @@
                         "x": 218.57,
                         "y": 67.09
                     },
-                    "id": 158,
+                    "id": 159,
                     "macros": {},
                     "name": "Rev cut 02",
                     "plugins": [],
@@ -12019,7 +12147,7 @@
                         "x": 272.57,
                         "y": 67.09
                     },
-                    "id": 159,
+                    "id": 160,
                     "macros": {},
                     "name": "Rev cut 03",
                     "plugins": [],
@@ -12088,7 +12216,7 @@
                         "x": 326.57,
                         "y": 67.09
                     },
-                    "id": 160,
+                    "id": 161,
                     "macros": {},
                     "name": "Rev cut 04",
                     "plugins": [],
@@ -12157,7 +12285,7 @@
                         "x": 380.57,
                         "y": 67.09
                     },
-                    "id": 161,
+                    "id": 162,
                     "macros": {},
                     "name": "Rev cut 05",
                     "plugins": [],
@@ -12226,7 +12354,7 @@
                         "x": 434.57,
                         "y": 67.09
                     },
-                    "id": 162,
+                    "id": 163,
                     "macros": {},
                     "name": "Rev cut 06",
                     "plugins": [],
@@ -12295,7 +12423,7 @@
                         "x": 488.57,
                         "y": 67.09
                     },
-                    "id": 163,
+                    "id": 164,
                     "macros": {},
                     "name": "Rev cut 07",
                     "plugins": [],
@@ -12364,7 +12492,7 @@
                         "x": 542.57,
                         "y": 67.09
                     },
-                    "id": 164,
+                    "id": 165,
                     "macros": {},
                     "name": "Rev cut 08",
                     "plugins": [],
@@ -12433,7 +12561,7 @@
                         "x": 596.57,
                         "y": 67.09
                     },
-                    "id": 165,
+                    "id": 166,
                     "macros": {},
                     "name": "Rev cut 09",
                     "plugins": [],
@@ -12502,7 +12630,7 @@
                         "x": 650.57,
                         "y": 67.09
                     },
-                    "id": 166,
+                    "id": 167,
                     "macros": {},
                     "name": "Rev cut 10",
                     "plugins": [],
@@ -12571,7 +12699,7 @@
                         "x": 704.57,
                         "y": 67.09
                     },
-                    "id": 167,
+                    "id": 168,
                     "macros": {},
                     "name": "Rev cut 11",
                     "plugins": [],
@@ -12640,7 +12768,7 @@
                         "x": 758.57,
                         "y": 67.09
                     },
-                    "id": 168,
+                    "id": 169,
                     "macros": {},
                     "name": "Rev cut 12",
                     "plugins": [],
@@ -12709,7 +12837,7 @@
                         "x": 812.57,
                         "y": 67.09
                     },
-                    "id": 169,
+                    "id": 170,
                     "macros": {},
                     "name": "Rev cut 13",
                     "plugins": [],
@@ -12778,7 +12906,7 @@
                         "x": 866.57,
                         "y": 67.09
                     },
-                    "id": 170,
+                    "id": 171,
                     "macros": {},
                     "name": "Rev cut 14",
                     "plugins": [],
@@ -12847,7 +12975,7 @@
                         "x": 920.57,
                         "y": 67.09
                     },
-                    "id": 171,
+                    "id": 172,
                     "macros": {},
                     "name": "Rev cut 15",
                     "plugins": [],
@@ -12916,7 +13044,7 @@
                         "x": 974.57,
                         "y": 67.09
                     },
-                    "id": 172,
+                    "id": 173,
                     "macros": {},
                     "name": "Rev cut 16",
                     "plugins": [],
@@ -12985,7 +13113,7 @@
                         "x": 1028.57,
                         "y": 67.09
                     },
-                    "id": 173,
+                    "id": 174,
                     "macros": {},
                     "name": "Rev cut 17",
                     "plugins": [],
@@ -13054,7 +13182,7 @@
                         "x": 1082.57,
                         "y": 67.09
                     },
-                    "id": 174,
+                    "id": 175,
                     "macros": {},
                     "name": "Rev cut 18",
                     "plugins": [],
@@ -13123,7 +13251,7 @@
                         "x": 1136.57,
                         "y": 67.09
                     },
-                    "id": 175,
+                    "id": 176,
                     "macros": {},
                     "name": "Rev cut 19",
                     "plugins": [],
@@ -13192,7 +13320,7 @@
                         "x": 1190.57,
                         "y": 67.09
                     },
-                    "id": 176,
+                    "id": 177,
                     "macros": {},
                     "name": "Rev cut 20",
                     "plugins": [],
@@ -13269,7 +13397,7 @@
                         "x": 170,
                         "y": 16
                     },
-                    "id": 177,
+                    "id": 178,
                     "macros": {},
                     "name": "Pit banner",
                     "plugins": [],
@@ -13338,7 +13466,7 @@
                         "x": 200,
                         "y": 16
                     },
-                    "id": 178,
+                    "id": 179,
                     "macros": {},
                     "name": "Pit label",
                     "plugins": [],
@@ -13440,7 +13568,7 @@
                         "x": 820,
                         "y": 16
                     },
-                    "id": 179,
+                    "id": 180,
                     "macros": {},
                     "name": "Pit speed",
                     "plugins": [],
@@ -13535,7 +13663,7 @@
                         "x": 20,
                         "y": 160
                     },
-                    "id": 180,
+                    "id": 181,
                     "macros": {},
                     "name": "Q Lap bg",
                     "plugins": [],
@@ -13604,9 +13732,216 @@
                         "x": 20,
                         "y": 160
                     },
-                    "id": 181,
+                    "id": 182,
                     "macros": {},
                     "name": "Q Lap accent",
+                    "plugins": [],
+                    "type": "Rectangle.qml"
+                },
+                {
+                    "actions": {},
+                    "binding": {},
+                    "borderStyle": {
+                        "allBorders": 0,
+                        "allCornerRadius": 0,
+                        "borderColor": {
+                            "color": "#00000000",
+                            "type": "SOLID"
+                        },
+                        "bordersBottom": 0,
+                        "bordersLeft": 0,
+                        "bordersRight": 0,
+                        "bordersTop": 0,
+                        "radiusBottomLeft": 0,
+                        "radiusBottomRight": 0,
+                        "radiusTopLeft": 0,
+                        "radiusTopRight": 0
+                    },
+                    "children": [],
+                    "effect": {
+                        "blinkDelay": 180,
+                        "blinkEnabled": false,
+                        "blurRadius": 0,
+                        "gravitySensorEnabled": false,
+                        "innerShadow": {
+                            "blur": 0,
+                            "color": {
+                                "color": "#FFFFFF",
+                                "type": "SOLID"
+                            },
+                            "size": 0
+                        },
+                        "opacity": 100,
+                        "outerShadow": {
+                            "blur": 0,
+                            "color": {
+                                "color": "#00000000",
+                                "type": "SOLID"
+                            },
+                            "depth": 0,
+                            "direction": 0
+                        },
+                        "rotation": 0
+                    },
+                    "general": {
+                        "backgroundColor": {
+                            "color": "#FF009246",
+                            "type": "SOLID"
+                        },
+                        "borderColor": {
+                            "color": "#00000000",
+                            "type": "SOLID"
+                        },
+                        "borderRadius": 0,
+                        "borderWidth": 0,
+                        "height": 5,
+                        "locked": false,
+                        "visible": true,
+                        "width": 40,
+                        "x": 680,
+                        "y": 160
+                    },
+                    "id": 183,
+                    "macros": {},
+                    "name": "Q Flag 0",
+                    "plugins": [],
+                    "type": "Rectangle.qml"
+                },
+                {
+                    "actions": {},
+                    "binding": {},
+                    "borderStyle": {
+                        "allBorders": 0,
+                        "allCornerRadius": 0,
+                        "borderColor": {
+                            "color": "#00000000",
+                            "type": "SOLID"
+                        },
+                        "bordersBottom": 0,
+                        "bordersLeft": 0,
+                        "bordersRight": 0,
+                        "bordersTop": 0,
+                        "radiusBottomLeft": 0,
+                        "radiusBottomRight": 0,
+                        "radiusTopLeft": 0,
+                        "radiusTopRight": 0
+                    },
+                    "children": [],
+                    "effect": {
+                        "blinkDelay": 180,
+                        "blinkEnabled": false,
+                        "blurRadius": 0,
+                        "gravitySensorEnabled": false,
+                        "innerShadow": {
+                            "blur": 0,
+                            "color": {
+                                "color": "#FFFFFF",
+                                "type": "SOLID"
+                            },
+                            "size": 0
+                        },
+                        "opacity": 100,
+                        "outerShadow": {
+                            "blur": 0,
+                            "color": {
+                                "color": "#00000000",
+                                "type": "SOLID"
+                            },
+                            "depth": 0,
+                            "direction": 0
+                        },
+                        "rotation": 0
+                    },
+                    "general": {
+                        "backgroundColor": {
+                            "color": "#FFF4F5F0",
+                            "type": "SOLID"
+                        },
+                        "borderColor": {
+                            "color": "#00000000",
+                            "type": "SOLID"
+                        },
+                        "borderRadius": 0,
+                        "borderWidth": 0,
+                        "height": 5,
+                        "locked": false,
+                        "visible": true,
+                        "width": 40,
+                        "x": 720,
+                        "y": 160
+                    },
+                    "id": 184,
+                    "macros": {},
+                    "name": "Q Flag 1",
+                    "plugins": [],
+                    "type": "Rectangle.qml"
+                },
+                {
+                    "actions": {},
+                    "binding": {},
+                    "borderStyle": {
+                        "allBorders": 0,
+                        "allCornerRadius": 0,
+                        "borderColor": {
+                            "color": "#00000000",
+                            "type": "SOLID"
+                        },
+                        "bordersBottom": 0,
+                        "bordersLeft": 0,
+                        "bordersRight": 0,
+                        "bordersTop": 0,
+                        "radiusBottomLeft": 0,
+                        "radiusBottomRight": 0,
+                        "radiusTopLeft": 0,
+                        "radiusTopRight": 0
+                    },
+                    "children": [],
+                    "effect": {
+                        "blinkDelay": 180,
+                        "blinkEnabled": false,
+                        "blurRadius": 0,
+                        "gravitySensorEnabled": false,
+                        "innerShadow": {
+                            "blur": 0,
+                            "color": {
+                                "color": "#FFFFFF",
+                                "type": "SOLID"
+                            },
+                            "size": 0
+                        },
+                        "opacity": 100,
+                        "outerShadow": {
+                            "blur": 0,
+                            "color": {
+                                "color": "#00000000",
+                                "type": "SOLID"
+                            },
+                            "depth": 0,
+                            "direction": 0
+                        },
+                        "rotation": 0
+                    },
+                    "general": {
+                        "backgroundColor": {
+                            "color": "#FFCE2B37",
+                            "type": "SOLID"
+                        },
+                        "borderColor": {
+                            "color": "#00000000",
+                            "type": "SOLID"
+                        },
+                        "borderRadius": 0,
+                        "borderWidth": 0,
+                        "height": 5,
+                        "locked": false,
+                        "visible": true,
+                        "width": 40,
+                        "x": 760,
+                        "y": 160
+                    },
+                    "id": 185,
+                    "macros": {},
+                    "name": "Q Flag 2",
                     "plugins": [],
                     "type": "Rectangle.qml"
                 },
@@ -13673,7 +14008,7 @@
                         "x": 791.48,
                         "y": 151.48
                     },
-                    "id": 182,
+                    "id": 186,
                     "macros": {},
                     "name": "Q Lap cut",
                     "plugins": [],
@@ -13734,7 +14069,7 @@
                         "x": 36,
                         "y": 170
                     },
-                    "id": 183,
+                    "id": 187,
                     "macros": {},
                     "name": "Q Lap label",
                     "plugins": [],
@@ -13836,7 +14171,7 @@
                         "x": 36,
                         "y": 190
                     },
-                    "id": 184,
+                    "id": 188,
                     "macros": {},
                     "name": "Q Lap value",
                     "plugins": [],
@@ -13931,7 +14266,7 @@
                         "x": 600,
                         "y": 168
                     },
-                    "id": 185,
+                    "id": 189,
                     "macros": {},
                     "name": "Q Invalid",
                     "plugins": [],
@@ -14026,7 +14361,7 @@
                         "x": 820,
                         "y": 160
                     },
-                    "id": 186,
+                    "id": 190,
                     "macros": {},
                     "name": "Q Delta bg",
                     "plugins": [],
@@ -14095,7 +14430,7 @@
                         "x": 1251.48,
                         "y": 151.48
                     },
-                    "id": 187,
+                    "id": 191,
                     "macros": {},
                     "name": "Q Delta cut",
                     "plugins": [],
@@ -14172,7 +14507,7 @@
                         "x": 820,
                         "y": 160
                     },
-                    "id": 188,
+                    "id": 192,
                     "macros": {},
                     "name": "Q Delta bar",
                     "plugins": [],
@@ -14233,7 +14568,7 @@
                         "x": 840,
                         "y": 170
                     },
-                    "id": 189,
+                    "id": 193,
                     "macros": {},
                     "name": "Q Delta label",
                     "plugins": [],
@@ -14335,7 +14670,7 @@
                         "x": 840,
                         "y": 192
                     },
-                    "id": 190,
+                    "id": 194,
                     "macros": {},
                     "name": "Q Delta value",
                     "plugins": [],
@@ -14430,7 +14765,7 @@
                         "x": 840,
                         "y": 292
                     },
-                    "id": 191,
+                    "id": 195,
                     "macros": {},
                     "name": "Q Delta bg",
                     "plugins": [],
@@ -14490,7 +14825,7 @@
                         "x": 840,
                         "y": 292
                     },
-                    "id": 192,
+                    "id": 196,
                     "linearGauge": {
                         "alternateStyle": {
                             "gaugeColor": {
@@ -14571,7 +14906,7 @@
                         "x": 1042,
                         "y": 292
                     },
-                    "id": 193,
+                    "id": 197,
                     "linearGauge": {
                         "alternateStyle": {
                             "gaugeColor": {
@@ -14661,7 +14996,7 @@
                         "x": 1041,
                         "y": 287
                     },
-                    "id": 194,
+                    "id": 198,
                     "macros": {},
                     "name": "Q Delta centre",
                     "plugins": [],
@@ -14730,7 +15065,7 @@
                         "x": 20,
                         "y": 345
                     },
-                    "id": 195,
+                    "id": 199,
                     "macros": {},
                     "name": "Q Prog bg",
                     "plugins": [],
@@ -14799,7 +15134,7 @@
                         "x": 20,
                         "y": 345
                     },
-                    "id": 196,
+                    "id": 200,
                     "macros": {},
                     "name": "Q Prog accent",
                     "plugins": [],
@@ -14868,7 +15203,7 @@
                         "x": 791.48,
                         "y": 336.48
                     },
-                    "id": 197,
+                    "id": 201,
                     "macros": {},
                     "name": "Q Prog cut",
                     "plugins": [],
@@ -14929,7 +15264,7 @@
                         "x": 36,
                         "y": 355
                     },
-                    "id": 198,
+                    "id": 202,
                     "macros": {},
                     "name": "Q Prog label",
                     "plugins": [],
@@ -15024,7 +15359,7 @@
                         "x": 658,
                         "y": 356
                     },
-                    "id": 199,
+                    "id": 203,
                     "macros": {},
                     "name": "Q Prog badge stroke c",
                     "plugins": [],
@@ -15093,7 +15428,7 @@
                         "x": 648.42,
                         "y": 360.52
                     },
-                    "id": 200,
+                    "id": 204,
                     "macros": {},
                     "name": "Q Prog badge stroke L t0",
                     "plugins": [],
@@ -15162,7 +15497,7 @@
                         "x": 648.42,
                         "y": 366.65
                     },
-                    "id": 201,
+                    "id": 205,
                     "macros": {},
                     "name": "Q Prog badge stroke L t1",
                     "plugins": [],
@@ -15231,7 +15566,7 @@
                         "x": 757.53,
                         "y": 360.52
                     },
-                    "id": 202,
+                    "id": 206,
                     "macros": {},
                     "name": "Q Prog badge stroke R t0",
                     "plugins": [],
@@ -15300,7 +15635,7 @@
                         "x": 757.53,
                         "y": 366.65
                     },
-                    "id": 203,
+                    "id": 207,
                     "macros": {},
                     "name": "Q Prog badge stroke R t1",
                     "plugins": [],
@@ -15369,7 +15704,7 @@
                         "x": 660,
                         "y": 358
                     },
-                    "id": 204,
+                    "id": 208,
                     "macros": {},
                     "name": "Q Prog badge fill c",
                     "plugins": [],
@@ -15438,7 +15773,7 @@
                         "x": 651.46,
                         "y": 362.75
                     },
-                    "id": 205,
+                    "id": 209,
                     "macros": {},
                     "name": "Q Prog badge fill L t0",
                     "plugins": [],
@@ -15507,7 +15842,7 @@
                         "x": 651.46,
                         "y": 367.93
                     },
-                    "id": 206,
+                    "id": 210,
                     "macros": {},
                     "name": "Q Prog badge fill L t1",
                     "plugins": [],
@@ -15576,7 +15911,7 @@
                         "x": 758.18,
                         "y": 362.75
                     },
-                    "id": 207,
+                    "id": 211,
                     "macros": {},
                     "name": "Q Prog badge fill R t0",
                     "plugins": [],
@@ -15645,7 +15980,7 @@
                         "x": 758.18,
                         "y": 367.93
                     },
-                    "id": 208,
+                    "id": 212,
                     "macros": {},
                     "name": "Q Prog badge fill R t1",
                     "plugins": [],
@@ -15714,7 +16049,7 @@
                         "x": 646,
                         "y": 357
                     },
-                    "id": 209,
+                    "id": 213,
                     "macros": {},
                     "name": "Q Prog pct",
                     "plugins": [],
@@ -15809,7 +16144,7 @@
                         "x": 36,
                         "y": 404
                     },
-                    "id": 210,
+                    "id": 214,
                     "macros": {},
                     "name": "Q Prog dim",
                     "plugins": [],
@@ -15869,7 +16204,7 @@
                         "x": 36,
                         "y": 404
                     },
-                    "id": 211,
+                    "id": 215,
                     "linearGauge": {
                         "alternateStyle": {
                             "gaugeColor": {
@@ -15959,7 +16294,7 @@
                         "x": 6.44,
                         "y": 418.2
                     },
-                    "id": 212,
+                    "id": 216,
                     "macros": {},
                     "name": "Q Prog cut 00",
                     "plugins": [],
@@ -16028,7 +16363,7 @@
                         "x": 37.44,
                         "y": 418.2
                     },
-                    "id": 213,
+                    "id": 217,
                     "macros": {},
                     "name": "Q Prog cut 01",
                     "plugins": [],
@@ -16097,7 +16432,7 @@
                         "x": 68.44,
                         "y": 418.2
                     },
-                    "id": 214,
+                    "id": 218,
                     "macros": {},
                     "name": "Q Prog cut 02",
                     "plugins": [],
@@ -16166,7 +16501,7 @@
                         "x": 99.44,
                         "y": 418.2
                     },
-                    "id": 215,
+                    "id": 219,
                     "macros": {},
                     "name": "Q Prog cut 03",
                     "plugins": [],
@@ -16235,7 +16570,7 @@
                         "x": 130.44,
                         "y": 418.2
                     },
-                    "id": 216,
+                    "id": 220,
                     "macros": {},
                     "name": "Q Prog cut 04",
                     "plugins": [],
@@ -16304,7 +16639,7 @@
                         "x": 161.44,
                         "y": 418.2
                     },
-                    "id": 217,
+                    "id": 221,
                     "macros": {},
                     "name": "Q Prog cut 05",
                     "plugins": [],
@@ -16373,7 +16708,7 @@
                         "x": 192.44,
                         "y": 418.2
                     },
-                    "id": 218,
+                    "id": 222,
                     "macros": {},
                     "name": "Q Prog cut 06",
                     "plugins": [],
@@ -16442,7 +16777,7 @@
                         "x": 223.44,
                         "y": 418.2
                     },
-                    "id": 219,
+                    "id": 223,
                     "macros": {},
                     "name": "Q Prog cut 07",
                     "plugins": [],
@@ -16511,7 +16846,7 @@
                         "x": 254.44,
                         "y": 418.2
                     },
-                    "id": 220,
+                    "id": 224,
                     "macros": {},
                     "name": "Q Prog cut 08",
                     "plugins": [],
@@ -16580,7 +16915,7 @@
                         "x": 285.44,
                         "y": 418.2
                     },
-                    "id": 221,
+                    "id": 225,
                     "macros": {},
                     "name": "Q Prog cut 09",
                     "plugins": [],
@@ -16649,7 +16984,7 @@
                         "x": 316.44,
                         "y": 418.2
                     },
-                    "id": 222,
+                    "id": 226,
                     "macros": {},
                     "name": "Q Prog cut 10",
                     "plugins": [],
@@ -16718,7 +17053,7 @@
                         "x": 347.44,
                         "y": 418.2
                     },
-                    "id": 223,
+                    "id": 227,
                     "macros": {},
                     "name": "Q Prog cut 11",
                     "plugins": [],
@@ -16787,7 +17122,7 @@
                         "x": 378.44,
                         "y": 418.2
                     },
-                    "id": 224,
+                    "id": 228,
                     "macros": {},
                     "name": "Q Prog cut 12",
                     "plugins": [],
@@ -16856,7 +17191,7 @@
                         "x": 409.44,
                         "y": 418.2
                     },
-                    "id": 225,
+                    "id": 229,
                     "macros": {},
                     "name": "Q Prog cut 13",
                     "plugins": [],
@@ -16925,7 +17260,7 @@
                         "x": 440.44,
                         "y": 418.2
                     },
-                    "id": 226,
+                    "id": 230,
                     "macros": {},
                     "name": "Q Prog cut 14",
                     "plugins": [],
@@ -16994,7 +17329,7 @@
                         "x": 471.44,
                         "y": 418.2
                     },
-                    "id": 227,
+                    "id": 231,
                     "macros": {},
                     "name": "Q Prog cut 15",
                     "plugins": [],
@@ -17063,7 +17398,7 @@
                         "x": 502.44,
                         "y": 418.2
                     },
-                    "id": 228,
+                    "id": 232,
                     "macros": {},
                     "name": "Q Prog cut 16",
                     "plugins": [],
@@ -17132,7 +17467,7 @@
                         "x": 533.44,
                         "y": 418.2
                     },
-                    "id": 229,
+                    "id": 233,
                     "macros": {},
                     "name": "Q Prog cut 17",
                     "plugins": [],
@@ -17201,7 +17536,7 @@
                         "x": 564.44,
                         "y": 418.2
                     },
-                    "id": 230,
+                    "id": 234,
                     "macros": {},
                     "name": "Q Prog cut 18",
                     "plugins": [],
@@ -17270,7 +17605,7 @@
                         "x": 595.44,
                         "y": 418.2
                     },
-                    "id": 231,
+                    "id": 235,
                     "macros": {},
                     "name": "Q Prog cut 19",
                     "plugins": [],
@@ -17339,7 +17674,7 @@
                         "x": 626.44,
                         "y": 418.2
                     },
-                    "id": 232,
+                    "id": 236,
                     "macros": {},
                     "name": "Q Prog cut 20",
                     "plugins": [],
@@ -17408,7 +17743,7 @@
                         "x": 657.44,
                         "y": 418.2
                     },
-                    "id": 233,
+                    "id": 237,
                     "macros": {},
                     "name": "Q Prog cut 21",
                     "plugins": [],
@@ -17477,7 +17812,7 @@
                         "x": 688.44,
                         "y": 418.2
                     },
-                    "id": 234,
+                    "id": 238,
                     "macros": {},
                     "name": "Q Prog cut 22",
                     "plugins": [],
@@ -17546,7 +17881,7 @@
                         "x": 719.44,
                         "y": 418.2
                     },
-                    "id": 235,
+                    "id": 239,
                     "macros": {},
                     "name": "Q Prog cut 23",
                     "plugins": [],
@@ -17615,7 +17950,7 @@
                         "x": 750.44,
                         "y": 418.2
                     },
-                    "id": 236,
+                    "id": 240,
                     "macros": {},
                     "name": "Q Prog cut 24",
                     "plugins": [],
@@ -17684,7 +18019,7 @@
                         "x": 24,
                         "y": 398
                     },
-                    "id": 237,
+                    "id": 241,
                     "macros": {},
                     "name": "Q Prog mask top",
                     "plugins": [],
@@ -17753,7 +18088,7 @@
                         "x": 24,
                         "y": 448
                     },
-                    "id": 238,
+                    "id": 242,
                     "macros": {},
                     "name": "Q Prog mask bottom",
                     "plugins": [],
@@ -17830,7 +18165,7 @@
                         "x": 216,
                         "y": 455
                     },
-                    "id": 239,
+                    "id": 243,
                     "macros": {},
                     "name": "Q Prog diamond 1",
                     "plugins": [],
@@ -17899,7 +18234,7 @@
                         "x": 182,
                         "y": 470
                     },
-                    "id": 240,
+                    "id": 244,
                     "macros": {},
                     "name": "Q Prog mark label 1",
                     "plugins": [],
@@ -18002,7 +18337,7 @@
                         "x": 402,
                         "y": 455
                     },
-                    "id": 241,
+                    "id": 245,
                     "macros": {},
                     "name": "Q Prog diamond 2",
                     "plugins": [],
@@ -18071,7 +18406,7 @@
                         "x": 368,
                         "y": 470
                     },
-                    "id": 242,
+                    "id": 246,
                     "macros": {},
                     "name": "Q Prog mark label 2",
                     "plugins": [],
@@ -18174,7 +18509,7 @@
                         "x": 588,
                         "y": 455
                     },
-                    "id": 243,
+                    "id": 247,
                     "macros": {},
                     "name": "Q Prog diamond 3",
                     "plugins": [],
@@ -18243,7 +18578,7 @@
                         "x": 554,
                         "y": 470
                     },
-                    "id": 244,
+                    "id": 248,
                     "macros": {},
                     "name": "Q Prog mark label 3",
                     "plugins": [],
@@ -18338,7 +18673,7 @@
                         "x": 820,
                         "y": 345
                     },
-                    "id": 245,
+                    "id": 249,
                     "macros": {},
                     "name": "Q List bg",
                     "plugins": [],
@@ -18407,7 +18742,7 @@
                         "x": 1251.48,
                         "y": 336.48
                     },
-                    "id": 246,
+                    "id": 250,
                     "macros": {},
                     "name": "Q List cut",
                     "plugins": [],
@@ -18468,7 +18803,7 @@
                         "x": 840,
                         "y": 350
                     },
-                    "id": 247,
+                    "id": 251,
                     "macros": {},
                     "name": "Q BEST LAP label",
                     "plugins": [],
@@ -18563,7 +18898,7 @@
                         "x": 1000,
                         "y": 350
                     },
-                    "id": 248,
+                    "id": 252,
                     "macros": {},
                     "name": "Q BEST LAP value",
                     "plugins": [],
@@ -18658,7 +18993,7 @@
                         "x": 836,
                         "y": 406
                     },
-                    "id": 249,
+                    "id": 253,
                     "macros": {},
                     "name": "Q LAST LAP line",
                     "plugins": [],
@@ -18719,7 +19054,7 @@
                         "x": 840,
                         "y": 406
                     },
-                    "id": 250,
+                    "id": 254,
                     "macros": {},
                     "name": "Q LAST LAP label",
                     "plugins": [],
@@ -18814,7 +19149,7 @@
                         "x": 1000,
                         "y": 406
                     },
-                    "id": 251,
+                    "id": 255,
                     "macros": {},
                     "name": "Q LAST LAP value",
                     "plugins": [],
@@ -18909,7 +19244,7 @@
                         "x": 836,
                         "y": 462
                     },
-                    "id": 252,
+                    "id": 256,
                     "macros": {},
                     "name": "Q LAP line",
                     "plugins": [],
@@ -18970,7 +19305,7 @@
                         "x": 840,
                         "y": 462
                     },
-                    "id": 253,
+                    "id": 257,
                     "macros": {},
                     "name": "Q LAP label",
                     "plugins": [],
@@ -19065,7 +19400,7 @@
                         "x": 1000,
                         "y": 462
                     },
-                    "id": 254,
+                    "id": 258,
                     "macros": {},
                     "name": "Q LAP value",
                     "plugins": [],
@@ -19160,7 +19495,7 @@
                         "x": 20,
                         "y": 540
                     },
-                    "id": 255,
+                    "id": 259,
                     "macros": {},
                     "name": "Q Pred bg",
                     "plugins": [],
@@ -19229,7 +19564,7 @@
                         "x": 20,
                         "y": 540
                     },
-                    "id": 256,
+                    "id": 260,
                     "macros": {},
                     "name": "Q Pred accent",
                     "plugins": [],
@@ -19298,7 +19633,7 @@
                         "x": 391.48,
                         "y": 531.48
                     },
-                    "id": 257,
+                    "id": 261,
                     "macros": {},
                     "name": "Q Pred cut",
                     "plugins": [],
@@ -19359,7 +19694,7 @@
                         "x": 36,
                         "y": 550
                     },
-                    "id": 258,
+                    "id": 262,
                     "macros": {},
                     "name": "Q Pred label",
                     "plugins": [],
@@ -19454,7 +19789,7 @@
                         "x": 20,
                         "y": 580
                     },
-                    "id": 259,
+                    "id": 263,
                     "macros": {},
                     "name": "Q Pred value",
                     "plugins": [],
@@ -19549,7 +19884,7 @@
                         "x": 412,
                         "y": 540
                     },
-                    "id": 260,
+                    "id": 264,
                     "macros": {},
                     "name": "Q Session bg",
                     "plugins": [],
@@ -19618,7 +19953,7 @@
                         "x": 412,
                         "y": 540
                     },
-                    "id": 261,
+                    "id": 265,
                     "macros": {},
                     "name": "Q Session accent",
                     "plugins": [],
@@ -19687,7 +20022,7 @@
                         "x": 791.48,
                         "y": 531.48
                     },
-                    "id": 262,
+                    "id": 266,
                     "macros": {},
                     "name": "Q Session cut",
                     "plugins": [],
@@ -19748,7 +20083,7 @@
                         "x": 428,
                         "y": 550
                     },
-                    "id": 263,
+                    "id": 267,
                     "macros": {},
                     "name": "Q Session label",
                     "plugins": [],
@@ -19843,7 +20178,7 @@
                         "x": 412,
                         "y": 580
                     },
-                    "id": 264,
+                    "id": 268,
                     "macros": {},
                     "name": "Q Session value",
                     "plugins": [],
@@ -19938,7 +20273,7 @@
                         "x": 820,
                         "y": 540
                     },
-                    "id": 265,
+                    "id": 269,
                     "macros": {},
                     "name": "Q Gear bg",
                     "plugins": [],
@@ -20007,7 +20342,7 @@
                         "x": 820,
                         "y": 540
                     },
-                    "id": 266,
+                    "id": 270,
                     "macros": {},
                     "name": "Q Gear accent",
                     "plugins": [],
@@ -20076,7 +20411,7 @@
                         "x": 1011.48,
                         "y": 531.48
                     },
-                    "id": 267,
+                    "id": 271,
                     "macros": {},
                     "name": "Q Gear cut",
                     "plugins": [],
@@ -20137,7 +20472,7 @@
                         "x": 836,
                         "y": 550
                     },
-                    "id": 268,
+                    "id": 272,
                     "macros": {},
                     "name": "Q Gear label",
                     "plugins": [],
@@ -20239,7 +20574,7 @@
                         "x": 820,
                         "y": 566
                     },
-                    "id": 269,
+                    "id": 273,
                     "macros": {},
                     "name": "Q Gear value",
                     "plugins": [],
@@ -20334,7 +20669,7 @@
                         "x": 820,
                         "y": 566
                     },
-                    "id": 270,
+                    "id": 274,
                     "macros": {},
                     "name": "Q Gear value neutral",
                     "plugins": [],
@@ -20429,7 +20764,7 @@
                         "x": 1032,
                         "y": 540
                     },
-                    "id": 271,
+                    "id": 275,
                     "macros": {},
                     "name": "Q Speed bg",
                     "plugins": [],
@@ -20498,7 +20833,7 @@
                         "x": 1032,
                         "y": 540
                     },
-                    "id": 272,
+                    "id": 276,
                     "macros": {},
                     "name": "Q Speed accent",
                     "plugins": [],
@@ -20567,7 +20902,7 @@
                         "x": 1251.48,
                         "y": 531.48
                     },
-                    "id": 273,
+                    "id": 277,
                     "macros": {},
                     "name": "Q Speed cut",
                     "plugins": [],
@@ -20628,7 +20963,7 @@
                         "x": 1048,
                         "y": 550
                     },
-                    "id": 274,
+                    "id": 278,
                     "macros": {},
                     "name": "Q Speed label",
                     "plugins": [],
@@ -20723,7 +21058,7 @@
                         "x": 1032,
                         "y": 580
                     },
-                    "id": 275,
+                    "id": 279,
                     "macros": {},
                     "name": "Q Speed value",
                     "plugins": [],
@@ -20833,7 +21168,7 @@
                         "x": 0,
                         "y": 0
                     },
-                    "id": 276,
+                    "id": 280,
                     "macros": {},
                     "name": "Flag frame top",
                     "plugins": [],
@@ -20917,7 +21252,7 @@
                         "x": 0,
                         "y": 712
                     },
-                    "id": 277,
+                    "id": 281,
                     "macros": {},
                     "name": "Flag frame bottom",
                     "plugins": [],
@@ -21001,7 +21336,7 @@
                         "x": 0,
                         "y": 0
                     },
-                    "id": 278,
+                    "id": 282,
                     "macros": {},
                     "name": "Flag frame left",
                     "plugins": [],
@@ -21085,7 +21420,7 @@
                         "x": 1272,
                         "y": 0
                     },
-                    "id": 279,
+                    "id": 283,
                     "macros": {},
                     "name": "Flag frame right",
                     "plugins": [],
@@ -21168,7 +21503,7 @@
                         "x": 480,
                         "y": 120
                     },
-                    "id": 280,
+                    "id": 284,
                     "macros": {},
                     "name": "Flag name",
                     "plugins": [],
@@ -21211,7 +21546,7 @@
             },
             "general": {
                 "backgroundColor": {
-                    "color": "#FF0B0D09",
+                    "color": "#FF000000",
                     "type": "SOLID"
                 },
                 "borderColor": {
@@ -21228,7 +21563,7 @@
                 "y": 0
             },
             "guides": [],
-            "id": 144,
+            "id": 145,
             "image": {
                 "src": ""
             },
@@ -21262,7 +21597,7 @@
     },
     "id": 0,
     "imageResources": [],
-    "lastModified": 1795477488,
+    "lastModified": 1795725168,
     "macros": {},
     "name": "Esagono Verde CM2",
     "plugins": [],
